@@ -1,0 +1,11 @@
+#backup内为需要备份的内容，文件夹后的*需要保留，键为备份标识
+backup:
+  mpv: "~/.config/mpv/*"
+  mpd: "~/.config/mpd/*"
+  ncmpcpp: "~/.config/ncmpcpp/*"
+  fontconfig: "~/.config/fontconfig/*"
+  pipewire: "~/.config/pipewire/*"
+  wireplumber: "~/.config/wireplumber/*"
+  rime:
+    - "~/.local/share/fcitx5/rime/wanxiang.userdb"
+    - "~/.local/share/fcitx5/rime/*.custom.yaml"

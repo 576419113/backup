@@ -1,0 +1,21 @@
+#参考/usr/share/doc/ncmpcpp/config
+
+#ncmpcpp配置路径
+ncmpcpp_directory = ~/.config/ncmpcpp
+#歌词路径
+lyrics_directory = ~/.config/ncmpcpp/lyrics
+#mpd连接端口
+mpd_host = localhost
+mpd_port = 6600
+#mpd音乐路径
+mpd_music_dir = ~/Music
+#淡入淡出时间
+mpd_crossfade_time = 2
+#运行鼠标操作
+mouse_support = yes
+#音频可视化配置
+visualizer_data_source = "/tmp/mpd.fifo"
+visualizer_output_name = "ncmpcpp_fifo"
+visualizer_in_stereo = "yes"
+visualizer_type = "spectrum"
+visualizer_look = "+|"
