@@ -9,3 +9,4 @@ backup:
   rime:
     - "~/.local/share/fcitx5/rime/wanxiang.userdb"
     - "~/.local/share/fcitx5/rime/*.custom.yaml"
+  pacman: "/etc/pacman.d/hooks/env_hook.py"
