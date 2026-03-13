@@ -4,6 +4,8 @@ import os
 data={}
 if(not os.path.exists("backup")):
     os.makedirs("backup")
+os.system("mv backup backup1")
+os.makedirs("backup")
 with open('config.yaml', 'r', encoding='utf-8') as file:
     data = yaml.load(file, Loader=yaml.FullLoader)
 for key,value in data["backup"].items():
@@ -14,3 +16,4 @@ for key,value in data["backup"].items():
             os.system(f"cp -rpu {one} backup/{key}")
     else:
         os.system(f"cp -rpu {value} backup/{key}")
+os.system("rm -rf backup1")
