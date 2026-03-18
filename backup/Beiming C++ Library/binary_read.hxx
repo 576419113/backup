@@ -1,5 +1,6 @@
 #pragma once
 #include <array>
+#include <cmath>
 #include <fstream>
 #include <string>
 #include <vector>
@@ -33,27 +34,39 @@ u_int8_t byte_combine(array<int, 8> byte_list)
 } // namespace Tool
 
 /*! 定位封装的相对位置枚举类型 */
-enum delta_loc { start,
-                 current,
-                 end };
+enum delta_loc { start, current, end };
 
 /*! 封装二进制数据读取的类 */
 class BinaryRead
 {
 public:
     BinaryRead(string filename);
+    ~BinaryRead();
     void locate(int locate_width, delta_loc loc);
+    void close();
     u_int8_t get_byte();
-    int get_int(int width);
+    u_int64_t get_int64(int width);
     string get_ascii(int width);
 private:
     ifstream binary_file;
 };
 
+/*! 用于关闭文件 */
+void BinaryRead::close()
+{
+    binary_file.close();
+}
+
 /*！构造函数，主要传递二进制文件 */
 BinaryRead::BinaryRead(string filename)
 {
     binary_file.open(filename, ios::binary);
+}
+
+/*! 析构函数，关闭文件 */
+BinaryRead::~BinaryRead()
+{
+    binary_file.close();
 }
 
 /*! 用于定位的方法，数值+delta_loc::{start|current|start} */
@@ -62,10 +75,13 @@ void BinaryRead::locate(int locate_width, delta_loc loc)
     switch (loc) {
         case delta_loc::start:
             binary_file.seekg(locate_width, ios::beg);
+            break;
         case delta_loc::current:
             binary_file.seekg(locate_width, ios::cur);
+            break;
         case delta_loc::end:
             binary_file.seekg(locate_width, ios::end);
+            break;
     }
 }
 
@@ -86,11 +102,18 @@ string BinaryRead::get_ascii(int width)
     return ascii_str;
 }
 
-int BinaryRead::get_int(int width)
+/*! 获取至多8字节数据，返回int64_t */
+u_int64_t BinaryRead::BinaryRead::get_int64(int width)
 {
-    u_int8_t byte;
-    binary_file.read(reinterpret_cast<char*>(&byte), width);
-    return static_cast<u_int8_t>(byte);
+    if (width > 8) {
+        return -1;
+    }
+    int64_t result = 0;
+    for (int i = 0; i < width; i++) {
+        result += static_cast<int64_t>(get_byte() * pow(256, width - i -1));
+    }
+    return result;
 }
 
 } // namespace BinaryRead
+
