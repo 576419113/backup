@@ -1,4 +1,4 @@
-#backup内为需要备份的内容，文件夹后的*需要保留，键为备份标识
+#backup内为需要备份的内容，文件夹后的*需要保留，键为备份标识，空格需要带上转义字符
 backup:
   mpv: "~/.config/mpv/*"
   mpd: "~/.config/mpd/*"
@@ -13,3 +13,4 @@ backup:
   bash:
     - "~/.bashrc"
     - "~/.inputrc"
+  Beiming\ C++\ Library: "~/Program/Beiming\\ C++\\ Library/*"
