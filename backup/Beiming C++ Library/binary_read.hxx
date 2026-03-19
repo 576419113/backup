@@ -110,7 +110,7 @@ u_int64_t BinaryRead::BinaryRead::get_int64(int width)
     }
     int64_t result = 0;
     for (int i = 0; i < width; i++) {
-        result += static_cast<int64_t>(get_byte() * pow(256, width - i -1));
+        result += static_cast<u_int64_t>(get_byte() * pow(256, width - i -1));
     }
     return result;
 }
