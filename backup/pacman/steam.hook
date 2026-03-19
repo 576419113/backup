@@ -1,0 +1,12 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = steam
+
+[Action]
+Description = Hook the environment of Krita...
+When = PostTransaction
+Exec = /etc/pacman.d/hooks/env_hook.py "XMODIFIERS=@im=fcitx LANG=zh_CN.UTF-8" /usr/share/applications/steam.desktop
+

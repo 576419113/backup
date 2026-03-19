@@ -1,0 +1,11 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = kdenlive
+
+[Action]
+Description = Hook the environment of Kdenlive...
+When = PostTransaction
+Exec = /etc/pacman.d/hooks/env_hook.py QT_IM_MODULE=fcitx /usr/share/applications/org.kde.kdenlive.desktop

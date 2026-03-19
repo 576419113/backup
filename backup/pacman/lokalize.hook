@@ -1,0 +1,12 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = lokalize
+
+[Action]
+Description = Hook the environment of Lokalize...
+When = PostTransaction
+Exec = /etc/pacman.d/hooks/env_hook.py QT_IM_MODULE=fcitx /usr/share/applications/org.kde.lokalize.desktop
+

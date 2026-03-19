@@ -1,0 +1,12 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = lsp-plugins
+Target = zam-plugins
+
+[Action]
+Description = Remove many desktop files...
+When = PostTransaction
+Exec = /bin/bash -c "rm /usr/share/applications/in.lsp_plug.*.desktop /usr/share/applications/com.zamaudio.*.desktop /usr/share/applications/lsp-plugins.desktop"

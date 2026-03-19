@@ -1,0 +1,12 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = kwrite
+Target = kate
+
+[Action]
+Description = Remove kwrite desktop files...
+When = PostTransaction
+Exec = /bin/bash -c "rm /usr/share/applications/org.kde.kwrite.desktop"

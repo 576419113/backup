@@ -1,0 +1,11 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = krita
+
+[Action]
+Description = Hook the environment of Krita...
+When = PostTransaction
+Exec = /etc/pacman.d/hooks/env_hook.py "QT_IM_MODULE=fcitx QT_SCALE_FACTOR=0.9" /usr/share/applications/org.kde.krita.desktop /usr/share/applications/krita_*.desktop

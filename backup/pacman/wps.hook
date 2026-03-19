@@ -1,0 +1,13 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = wps-office-cn
+Target = wps-office-mui-zh-cn
+
+[Action]
+Description = Hook the environment of wps...
+When = PostTransaction
+Exec = /etc/pacman.d/hooks/env_hook.py QT_IM_MODULE=fcitx /usr/share/applications/wps-office-et.desktop /usr/share/applications/wps-office-pdf.desktop /usr/share/applications/wps-office-prometheus.desktop /usr/share/applications/wps-office-wpp.desktop /usr/share/applications/wps-office-wps.desktop
+

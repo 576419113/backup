@@ -1,0 +1,11 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target=inkscape
+
+[Action]
+Description = Hook the environment of Inkscape...
+When = PostTransaction
+Exec = /etc/pacman.d/hooks/env_hook.py GTK_USE_PORTAL=1 /usr/share/applications/org.inkscape.Inkscape.desktop
