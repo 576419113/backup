@@ -60,6 +60,9 @@ export XIM_PROGRAM=fcitx5
 export XMODIFIERS=@im=fcitx
 export GLFW_IM_MODULE=fcitx5
 
+# 使用llama.cpp环境变量
+export PATH=$PATH:/home/beiming/Program/llama.cpp/build/bin/
+
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
 __conda_setup="$('/home/beiming/miniconda3/bin/conda' 'shell.bash' 'hook' 2> /dev/null)"

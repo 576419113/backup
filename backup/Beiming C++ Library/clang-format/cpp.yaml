@@ -33,7 +33,7 @@ BreakConstructorInitializers: AfterColon
 #仅在逗号之后中断继承列表
 BreakInheritanceList: AfterComma
 #无列限制
-ColumnLimit: 0
+ColumnLimit: 2048
 #@->描述具有特殊含义的注释的正则表达式，这些注释不应拆分成行或以其他方式更改
 CommentPragmas: '^ IWYU pragma:'
 #空格分割括号列表
