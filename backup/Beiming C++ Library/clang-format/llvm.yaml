@@ -67,7 +67,7 @@ AlignConsecutiveTableGenDefinitionColons:
   PadOperators:    false
 AlignEscapedNewlines: Right
 AlignOperands:   Align
-AlignTrailingComments:
+AlignTrailings:
   AlignPPAndNotPP: true
   Kind:            Always
   OverEmptyLines:  0

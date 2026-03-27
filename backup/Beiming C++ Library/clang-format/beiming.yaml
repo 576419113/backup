@@ -1,7 +1,11 @@
 BasedOnStyle: LLVM
-Language: Cpp
 #访问修饰符额外缩进
 AccessModifierOffset: -4
+#注释风格
+AlignTrailingComments:
+  AlignPPAndNotPP: false
+  Kind: Always
+  OverEmptyLines: 0
 #从不将函数合并到一行
 AllowShortFunctionsOnASingleLine: None
 #数组不换行
@@ -77,6 +81,8 @@ ObjCBreakBeforeNestedBlockParam: false
 ObjCSpaceAfterProperty: true
 #@->自定义单行格式化忽略标记的正则表达式
 OneLineFormatOffRegex: ''
+#不允许重新粘合注释
+ReflowComments: false
 #所有namespace均有结尾标记
 ShortNamespaceLines: 0
 #模版变量后无空格
@@ -87,6 +93,8 @@ SpaceBeforeCpp11BracedList: true
 SpaceBeforeCtorInitializerColon: false
 #类继承冒号前无空格
 SpaceBeforeInheritanceColon: false
+#尾随行注释(// - 注释)之前放置的空格数
+SpacesBeforeTrailingComments: 1
 #控制每个左括号前的空格
 SpaceBeforeParens: Custom
 SpaceBeforeParensOptions:

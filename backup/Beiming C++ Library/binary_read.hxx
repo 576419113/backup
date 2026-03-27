@@ -1,13 +1,13 @@
 ﻿#pragma once
-#include <iostream>
 #include <array>
 #include <cmath>
 #include <fstream>
+#include <iostream>
 #include <string>
-#include <vector>
+#include <unicode/ucnv.h>
 #include <unicode/unistr.h>
 #include <unicode/utf.h>
-#include <unicode/ucnv.h>
+#include <vector>
 using namespace std;
 
 /*! 全局命名空间 */
@@ -128,7 +128,7 @@ u_int64_t BinaryRead::BinaryRead::get_int64(int width, endian direction)
         if (width > 8) {
             throw "u_int64_t get_int64 allows only 8 bytes!";
         }
-    } catch(const char* err_msg) {
+    } catch (const char* err_msg) {
         cout << err_msg << endl;
         binary_file.close();
         exit(EXIT_FAILURE);
@@ -136,7 +136,7 @@ u_int64_t BinaryRead::BinaryRead::get_int64(int width, endian direction)
     int64_t result = 0;
     if (direction == endian::BE) {
         for (int i = 0; i < width; i++) {
-            result += static_cast<u_int64_t>(get_byte() * pow(256, width - i -1));
+            result += static_cast<u_int64_t>(get_byte() * pow(256, width - i - 1));
         }
     } else {
         for (int i = 0; i < width; i++) {
@@ -170,4 +170,3 @@ std::string BinaryRead::BinaryRead::get_utf16(u_int64_t width, endian direction)
 }
 
 } // namespace BinaryRead
-
