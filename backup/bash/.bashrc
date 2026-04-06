@@ -77,3 +77,9 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
+
+# set ~/bin PATH so it includes user's private bin if it exists
+if [ -d "$HOME/bin" ] ; then
+    export REPO_URL='https://mirrors.ustc.edu.cn/aosp/git-repo'
+    PATH="$HOME/bin:$PATH"
+fi
