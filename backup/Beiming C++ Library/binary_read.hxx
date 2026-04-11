@@ -4,9 +4,6 @@
 #include <fstream>
 #include <iostream>
 #include <string>
-#include <unicode/ucnv.h>
-#include <unicode/unistr.h>
-#include <unicode/utf.h>
 #include <vector>
 using namespace std;
 
@@ -17,12 +14,11 @@ namespace BinaryRead
 /*! 常规工具命名空间 */
 namespace Tool
 {
-/*! 将1字节转换为8位数组 */
-array<int, 8> byte_split(int byte)
+/*! 将整数转换为m位二进制数组 */
+vector<u_int8_t> byte_split(u_int64_t byte, u_int64_t width)
 {
-    array<int, 8> byte_list;
-    byte_list.fill(0);
-    int index = 7;
+    vector<u_int8_t> byte_list(width, 0);
+    int index = width -1;
     while (byte > 0) {
         byte_list[index] = (byte & 1 ? 1 : 0);
         byte >>= 1;
@@ -54,10 +50,11 @@ public:
     void locate(int64_t locate_width, delta_loc loc);
     void close();
     u_int8_t get_byte();
-    vector<u_int8_t> get_bytes(u_int64_t width);
+    std::vector<u_int8_t> get_bytes(u_int64_t width);
     u_int64_t get_int64(int width, endian direction);
-    string get_ascii(int width);
-    string get_utf16(u_int64_t width, endian direction);
+    std::string get_ascii(int width);
+    std::string get_utf16(u_int64_t width, endian direction);
+    u_int64_t get_pos();
 private:
     ifstream binary_file;
 };
@@ -122,7 +119,7 @@ string BinaryRead::get_ascii(int width)
 }
 
 /*! 获取至多8字节数据，BE大端、LE小端, 返回int64_t */
-u_int64_t BinaryRead::BinaryRead::get_int64(int width, endian direction)
+u_int64_t BinaryRead::get_int64(int width, endian direction)
 {
     try {
         if (width > 8) {
@@ -147,26 +144,74 @@ u_int64_t BinaryRead::BinaryRead::get_int64(int width, endian direction)
 }
 
 /*! 获取n字节utf16数据, BE大端、LE小端，返回string */
-std::string BinaryRead::BinaryRead::get_utf16(u_int64_t width, endian direction)
+std::string BinaryRead::get_utf16(u_int64_t width, endian direction = endian::BE)
 {
-    vector<char> utf16_bytes(width);
-    binary_file.read(utf16_bytes.data(), width);
-    const char* byte_data = utf16_bytes.data();
-    int32_t length = static_cast<int32_t>(width);
-    UErrorCode errorCode = U_ZERO_ERROR;
-    UConverter* converter = nullptr;
-    string direc;
-    if (direction == endian::BE) {
-        direc = "BE";
-    } else {
-        direc = "LE";
+    vector<u_int8_t> bytes = get_bytes(width);
+    std::string result;
+    for (u_int64_t i = 0; i < bytes.size(); i += 2) {
+        u_int32_t code_point;
+        if (i + 1 < bytes.size()) {
+            // 读取两个字节
+            u_int16_t ch;
+            switch (direction) {
+                case endian::LE:
+                    ch = static_cast<u_int16_t>(bytes[i]) | (static_cast<u_int16_t>(bytes[i + 1]) << 8);
+                    break;
+                case endian::BE:
+                    ch = (static_cast<u_int16_t>(bytes[i]) << 8) | static_cast<u_int16_t>(bytes[i + 1]);
+                    break;
+            }
+            // 检测代理对
+            if (ch >= 0xD800 && ch <= 0xDBFF && i + 3 < bytes.size()) {
+                u_int16_t highSurrogate = ch;
+                u_int16_t lowSurrogate = static_cast<u_int16_t>(bytes[i + 2]) |  (static_cast<u_int16_t>(bytes[i + 3]) << 8);
+                if (lowSurrogate >= 0xDC00 && lowSurrogate <= 0xDFFF) {
+                    // 计算实际的Unicode码点
+                    code_point = 0x10000 + ((highSurrogate - 0xD800) << 10) + (lowSurrogate - 0xDC00);
+                    i += 2;
+                } else {
+                    code_point = ch;
+                }
+            } else {
+                code_point = ch;
+            }
+            // 转换成utf8输出
+            if (code_point <= 0x7F) {
+                result += static_cast<char>(code_point);
+            } else if (code_point <= 0x7FF) {
+                vector<u_int8_t> bytelist = Tool::byte_split(code_point, 11);
+                array<int, 8> arr1 = {1, 1, 0, bytelist[0], bytelist[1], bytelist[2], bytelist[3], bytelist[4]};
+                array<int, 8> arr2 = {1, 0, bytelist[5], bytelist[6], bytelist[7], bytelist[8], bytelist[9], bytelist[10]};
+                result += Tool::byte_combine(arr1);
+                result += Tool::byte_combine(arr2);
+            } else if (code_point <= 0xFFFF) {
+                vector<u_int8_t> bytelist = Tool::byte_split(code_point, 16);
+                array<int, 8> arr1 = {1, 1, 1, 0, bytelist[0], bytelist[1], bytelist[2], bytelist[3]};
+                array<int, 8> arr2 = {1, 0, bytelist[4], bytelist[5], bytelist[6], bytelist[7], bytelist[8], bytelist[9]};
+                array<int, 8> arr3 = {1, 0, bytelist[10], bytelist[11], bytelist[12], bytelist[13], bytelist[14], bytelist[15]};
+                result += Tool::byte_combine(arr1);
+                result += Tool::byte_combine(arr2);
+                result += Tool::byte_combine(arr3);
+            } else if (code_point <= 0xFFFF) {
+                vector<u_int8_t> bytelist = Tool::byte_split(code_point, 21);
+                array<int, 8> arr1 = {1, 1, 1, 1, 0, bytelist[0], bytelist[1], bytelist[2]};
+                array<int, 8> arr2 = {1, 0, bytelist[3], bytelist[4], bytelist[5], bytelist[6], bytelist[7], bytelist[8]};
+                array<int, 8> arr3 = {1, 0, bytelist[9], bytelist[10], bytelist[11], bytelist[12], bytelist[13], bytelist[14]};
+                array<int, 8> arr4 = {1, 0, bytelist[15], bytelist[16], bytelist[17], bytelist[18], bytelist[19], bytelist[20]};
+                result += Tool::byte_combine(arr1);
+                result += Tool::byte_combine(arr2);
+                result += Tool::byte_combine(arr3);
+                result += Tool::byte_combine(arr4);
+            }
+        }
     }
-    converter = ucnv_open(("UTF-16" + direc).c_str(), &errorCode);
-    icu::UnicodeString utf16Str(byte_data, length, converter, errorCode);
-    ucnv_close(converter);
-    std::string utf8Str;
-    utf16Str.toUTF8String(utf8Str);
-    return utf8Str;
+    return result;
+}
+
+u_int64_t BinaryRead::get_pos()
+{
+    std::streampos currentPos = binary_file.tellg();
+    return static_cast<u_int64_t>(currentPos);
 }
 
 } // namespace BinaryRead
