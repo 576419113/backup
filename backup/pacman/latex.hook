@@ -1,0 +1,12 @@
+[Trigger]
+Operation=Install
+Operation=Upgrade
+Operation=Remove
+Type=Package
+Target = texlive-bin
+Target = texlive-bin
+
+[Action]
+Description = Remove XDvi desktop files...
+When = PostTransaction
+Exec = /bin/bash -c "rm /usr/share/applications/xdvi.desktop"

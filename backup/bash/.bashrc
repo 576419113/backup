@@ -8,6 +8,8 @@ alias ggcc="gcc -g -Og -fstack-protector-all -fstack-check -D_GLIBCXX_DEBUG -D_G
 
 # 设置vim为默认文本编辑器
 export EDITOR=vim
+# 重复命令只记录最后一条，且不记录空格开头的命令
+export HISTCONTROL="erasedups:ignorespace"
 
 # 如果不是交互式Shell，则在此停止，不再加载下面的配置
 if [[ $- != *i* ]]; then
@@ -77,9 +79,3 @@ else
 fi
 unset __conda_setup
 # <<< conda initialize <<<
-
-# set ~/bin PATH so it includes user's private bin if it exists
-if [ -d "$HOME/bin" ] ; then
-    export REPO_URL='https://mirrors.ustc.edu.cn/aosp/git-repo'
-    PATH="$HOME/bin:$PATH"
-fi
