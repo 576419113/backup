@@ -15,3 +15,6 @@ backup:
     - "~/.inputrc"
   Beiming\ C++\ Library: "~/Program/Beiming\\ C++\\ Library/*"
   tlp: "/etc/tlp.conf"
+  mindustry:
+    - "~/.var/app/com.github.Anuken.Mindustry/data/Mindustry/saves/"
+    - "~/.var/app/com.github.Anuken.Mindustry/data/Mindustry/settings.bin"
