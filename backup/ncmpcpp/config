@@ -11,7 +11,7 @@ mpd_port = 6600
 mpd_music_dir = ~/Music
 #淡入淡出时间
 mpd_crossfade_time = 2
-#运行鼠标操作
+#允许鼠标操作
 mouse_support = yes
 #音频可视化配置
 visualizer_data_source = "/tmp/mpd.fifo"
