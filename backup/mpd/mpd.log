@@ -732,3 +732,37 @@ load_pat > can not open /usr/local/share/timidity/timidity.cfg, use environment 
 2026-05-05T16:26:20 player: played "To The Moon Series/Impostor Factory OST/32. Basement Tour - Kan Gao.mp3"
 2026-05-05T16:26:31 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
 2026-05-05T16:26:55 player: played "To The Moon Series/Impostor Factory OST/31. Double O Six Point Five - Kan Gao.mp3"
+2026-05-08T22:38:34 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:38:35 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-05-08T22:38:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:38:48 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:38:58 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:38:58 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-05-08T22:39:03 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:40:55 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:41:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:42:58 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:43:04 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-05-08T22:43:10 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:43:11 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2026-05-08T22:46:41 player: played "三国杀/长乐调.flac"
+2026-05-08T22:50:11 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:50:12 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-05-08T22:50:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:51:10 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:51:12 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:53:04 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:53:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:53:06 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:53:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:53:22 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:53:35 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T22:55:26 player: played "To The Moon Series/A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-05-08T22:59:16 player: played "To The Moon Series/A Bird Story OST/02. Yesterday.mp3"
+2026-05-08T23:00:12 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-05-08T23:01:56 player: played "To The Moon Series/A Bird Story OST/04. Another Stroll.mp3"
+2026-05-08T23:03:20 player: played "To The Moon Series/A Bird Story OST/05. Home.mp3"
+2026-05-08T23:04:15 player: played "To The Moon Series/A Bird Story OST/06. bef fall music.mp3"
+2026-05-08T23:04:56 player: played "To The Moon Series/A Bird Story OST/07. after fall music.mp3"
+2026-05-08T23:05:24 player: played "To The Moon Series/A Bird Story OST/08. Bright & Early.mp3"
+2026-05-08T23:05:30 player: played "To The Moon Series/A Bird Story OST/09. [Cue] Muffins.mp3"
