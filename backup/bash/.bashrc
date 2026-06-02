@@ -1,13 +1,20 @@
 # 命令缩写
 alias ls='ls --color=auto'
+alias tree="tree -C"
 alias grep='grep --color=auto'
 alias python='python3'
 alias mkdir="mkdir -p -v"
 alias gg++="g++ -std=c++20 -g -Og -fstack-protector-all -fstack-check -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC -D_GLIBCXX_ASSERTIONS -fsanitize=address,undefined,leak -fsanitize-address-use-after-scope -fsanitize=float-divide-by-zero -fsanitize=float-cast-overflow -fno-omit-frame-pointer -fno-optimize-sibling-calls"
 alias ggcc="gcc -g -Og -fstack-protector-all -fstack-check -D_GLIBCXX_DEBUG -D_GLIBCXX_DEBUG_PEDANTIC -D_GLIBCXX_ASSERTIONS -fsanitize=address,undefined,leak -fsanitize-address-use-after-scope -fsanitize=float-divide-by-zero -fsanitize=float-cast-overflow -fno-omit-frame-pointer -fno-optimize-sibling-calls"
+alias vim='nvim'
+alias nano='nvim'
+alias vi='nvim'
+alias cdcnvim='cd ~/.config/nvim'
+alias cddnvim='cd ~/.local/share/nvim'
 
-# 设置vim为默认文本编辑器
-export EDITOR=vim
+# 设置nvim为默认文本编辑器
+export EDITOR=nvim
+export VISUAL=nvim
 # 重复命令只记录最后一条，且不记录空格开头的命令
 export HISTCONTROL="erasedups:ignorespace"
 
@@ -63,7 +70,9 @@ export XMODIFIERS=@im=fcitx
 export GLFW_IM_MODULE=fcitx5
 
 # 使用llama.cpp环境变量
-export PATH=$PATH:/home/beiming/Program/llama.cpp/build/bin/
+export PATH="$HOME/Program/llama.cpp/build/bin/:$PATH"
+# 使用cago环境变量
+export PATH="$HOME/.cargo/bin:$PATH"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
