@@ -4,12 +4,14 @@
 
 -- 启用的 LSP 后端
 local language = {
-    -- bash
+    -- shell
     "bashls",
     -- C系列
     "clangd",
     -- Web系列
-    "cssls", "html", "denols",
+    "cssls",
+    "html",
+    "denols",
     -- Markdown
     "marksman",
     -- Python
@@ -17,12 +19,13 @@ local language = {
     -- Lua
     "lua_ls",
     -- 配置文件系列
-    "jsonls", "yamlls",
+    "jsonls",
+    "yamlls",
 }
 
 -- blink.cmp 兼容性
 vim.lsp.config("*", {
-    capabilities = require('blink.cmp').get_lsp_capabilities()
+    capabilities = require("blink.cmp").get_lsp_capabilities(),
 })
 
 -- Lua 配置
@@ -34,9 +37,31 @@ vim.lsp.config("lua_ls", {
     },
 })
 
+-- Python 配置
+vim.lsp.config("pylsp", {
+    settings = {
+        pylsp = {
+            plugins = {
+                -- 关闭 codestyle
+                pycodestyle = { enabled = false },
+            },
+        },
+    },
+})
+
+-- Shell 配置
+vim.filetype.add({
+  extension = {
+    zsh = "zsh",
+    zshrc = "zsh",
+  },
+})
+vim.lsp.config("bashls", {
+    filetypes = { "sh", "bash", "zsh" },
+})
+
 -- 启用语言
 vim.lsp.enable(language)
-
 
 --[[
 -- LSP 诊断数据配置 --
@@ -45,19 +70,22 @@ vim.lsp.enable(language)
 -- 诊断文字前缀
 local diagnostic_icon = {
     [vim.diagnostic.severity.ERROR] = " ",
-    [vim.diagnostic.severity.WARN]  = " ",
-    [vim.diagnostic.severity.INFO]  = " ",
-    [vim.diagnostic.severity.HINT]  = " ",
+    [vim.diagnostic.severity.WARN] = " ",
+    [vim.diagnostic.severity.INFO] = " ",
+    [vim.diagnostic.severity.HINT] = " ",
 }
 
 -- 配置
 vim.diagnostic.config({
-    underline = true,                    -- 告警下划线
+    underline = true, -- 告警下划线
+    update_in_insert = true, -- 插入时更新告警信息
     -- 行尾诊断文字
     virtual_text = {
-        spacing =4,
+        spacing = 4,
         update_in_insert = true,
-        prefix = function(diag) return diagnostic_icon[diag.severity] end,
+        prefix = function(diag)
+            return diagnostic_icon[diag.severity]
+        end,
     },
-    signs = true,                        -- 行号旁符号
+    signs = true, -- 行号旁符号
 })

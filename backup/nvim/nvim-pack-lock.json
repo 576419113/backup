@@ -1,5 +1,9 @@
 {
   "plugins": {
+    "ansi.nvim": {
+      "rev": "95de464c315ecbe9d7ca3d9a203ef85def0cf6aa",
+      "src": "https://github.com/0xferrous/ansi.nvim"
+    },
     "blink.cmp": {
       "rev": "82efc953a6121822fda1974241a4d1af74c6c026",
       "src": "https://github.com/saghen/blink.cmp"
@@ -8,9 +12,25 @@
       "rev": "f29d8bac6549bc1e7d699c83f680823d7def98bd",
       "src": "https://github.com/saghen/blink.lib"
     },
+    "conform.nvim": {
+      "rev": "619363c30309d29ffa631e67c8183f2a72caa373",
+      "src": "https://github.com/stevearc/conform.nvim"
+    },
+    "mini.diff": {
+      "rev": "5af2b6be4a4beb673f3196a414f6fd932bbedd48",
+      "src": "https://github.com/nvim-mini/mini.diff"
+    },
+    "mini.indentscope": {
+      "rev": "98453149c3394ca3d1bf252e838e4777573b63e2",
+      "src": "https://github.com/nvim-mini/mini.indentscope"
+    },
     "nvim-autopairs": {
       "rev": "7b9923abad60b903ece7c52940e1321d39eccc79",
       "src": "https://github.com/windwp/nvim-autopairs"
+    },
+    "nvim-highlight-colors": {
+      "rev": "e4c7af0211866162d999ce0bdd6a029302e19139",
+      "src": "https://github.com/brenoprata10/nvim-highlight-colors"
     },
     "nvim-lspconfig": {
       "rev": "a4ed4e761c400849e8c9f8bda33e5083f890268c",

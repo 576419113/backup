@@ -73,6 +73,8 @@ export GLFW_IM_MODULE=fcitx5
 export PATH="$HOME/Program/llama.cpp/build/bin/:$PATH"
 # 使用cago环境变量
 export PATH="$HOME/.cargo/bin:$PATH"
+# 使用ruby环境变量
+export PATH="$HOME/.local/share/gem/ruby/3.4.0/bin:$PATH"
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!

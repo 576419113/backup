@@ -18,7 +18,7 @@ namespace Tool
 vector<u_int8_t> byte_split(u_int64_t byte, u_int64_t width)
 {
     vector<u_int8_t> byte_list(width, 0);
-    int index = width -1;
+    int index = width - 1;
     while (byte > 0) {
         byte_list[index] = (byte & 1 ? 1 : 0);
         byte >>= 1;
@@ -164,7 +164,7 @@ std::string BinaryRead::get_utf16(u_int64_t width, endian direction = endian::BE
             // 检测代理对
             if (ch >= 0xD800 && ch <= 0xDBFF && i + 3 < bytes.size()) {
                 u_int16_t highSurrogate = ch;
-                u_int16_t lowSurrogate = static_cast<u_int16_t>(bytes[i + 2]) |  (static_cast<u_int16_t>(bytes[i + 3]) << 8);
+                u_int16_t lowSurrogate = static_cast<u_int16_t>(bytes[i + 2]) | (static_cast<u_int16_t>(bytes[i + 3]) << 8);
                 if (lowSurrogate >= 0xDC00 && lowSurrogate <= 0xDFFF) {
                     // 计算实际的Unicode码点
                     code_point = 0x10000 + ((highSurrogate - 0xD800) << 10) + (lowSurrogate - 0xDC00);
@@ -180,24 +180,24 @@ std::string BinaryRead::get_utf16(u_int64_t width, endian direction = endian::BE
                 result += static_cast<char>(code_point);
             } else if (code_point <= 0x7FF) {
                 vector<u_int8_t> bytelist = Tool::byte_split(code_point, 11);
-                array<int, 8> arr1 = {1, 1, 0, bytelist[0], bytelist[1], bytelist[2], bytelist[3], bytelist[4]};
-                array<int, 8> arr2 = {1, 0, bytelist[5], bytelist[6], bytelist[7], bytelist[8], bytelist[9], bytelist[10]};
+                array<int, 8> arr1 = { 1, 1, 0, bytelist[0], bytelist[1], bytelist[2], bytelist[3], bytelist[4] };
+                array<int, 8> arr2 = { 1, 0, bytelist[5], bytelist[6], bytelist[7], bytelist[8], bytelist[9], bytelist[10] };
                 result += Tool::byte_combine(arr1);
                 result += Tool::byte_combine(arr2);
             } else if (code_point <= 0xFFFF) {
                 vector<u_int8_t> bytelist = Tool::byte_split(code_point, 16);
-                array<int, 8> arr1 = {1, 1, 1, 0, bytelist[0], bytelist[1], bytelist[2], bytelist[3]};
-                array<int, 8> arr2 = {1, 0, bytelist[4], bytelist[5], bytelist[6], bytelist[7], bytelist[8], bytelist[9]};
-                array<int, 8> arr3 = {1, 0, bytelist[10], bytelist[11], bytelist[12], bytelist[13], bytelist[14], bytelist[15]};
+                array<int, 8> arr1 = { 1, 1, 1, 0, bytelist[0], bytelist[1], bytelist[2], bytelist[3] };
+                array<int, 8> arr2 = { 1, 0, bytelist[4], bytelist[5], bytelist[6], bytelist[7], bytelist[8], bytelist[9] };
+                array<int, 8> arr3 = { 1, 0, bytelist[10], bytelist[11], bytelist[12], bytelist[13], bytelist[14], bytelist[15] };
                 result += Tool::byte_combine(arr1);
                 result += Tool::byte_combine(arr2);
                 result += Tool::byte_combine(arr3);
             } else if (code_point <= 0xFFFF) {
                 vector<u_int8_t> bytelist = Tool::byte_split(code_point, 21);
-                array<int, 8> arr1 = {1, 1, 1, 1, 0, bytelist[0], bytelist[1], bytelist[2]};
-                array<int, 8> arr2 = {1, 0, bytelist[3], bytelist[4], bytelist[5], bytelist[6], bytelist[7], bytelist[8]};
-                array<int, 8> arr3 = {1, 0, bytelist[9], bytelist[10], bytelist[11], bytelist[12], bytelist[13], bytelist[14]};
-                array<int, 8> arr4 = {1, 0, bytelist[15], bytelist[16], bytelist[17], bytelist[18], bytelist[19], bytelist[20]};
+                array<int, 8> arr1 = { 1, 1, 1, 1, 0, bytelist[0], bytelist[1], bytelist[2] };
+                array<int, 8> arr2 = { 1, 0, bytelist[3], bytelist[4], bytelist[5], bytelist[6], bytelist[7], bytelist[8] };
+                array<int, 8> arr3 = { 1, 0, bytelist[9], bytelist[10], bytelist[11], bytelist[12], bytelist[13], bytelist[14] };
+                array<int, 8> arr4 = { 1, 0, bytelist[15], bytelist[16], bytelist[17], bytelist[18], bytelist[19], bytelist[20] };
                 result += Tool::byte_combine(arr1);
                 result += Tool::byte_combine(arr2);
                 result += Tool::byte_combine(arr3);

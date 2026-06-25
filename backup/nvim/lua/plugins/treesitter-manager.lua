@@ -1,6 +1,6 @@
 local parsers = {
     -- Shell
-    "bash",
+    "bash", "zsh",
     -- C/C++系列
     "c", "cpp", "cmake", "make",
     -- Python

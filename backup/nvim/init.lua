@@ -1,4 +1,10 @@
 --[[
+-- lua/breeze --
+--]]
+require("breeze.init").setup()
+
+
+--[[
 -- lua/config --
 --]]
 -- 载入 nvim 选项
@@ -18,15 +24,11 @@ require("plugins.blink-cmp")
 require("plugins.nvim-autopairs")
 -- 载入 treesitter-manager 语法树插件
 require("plugins.treesitter-manager")
-
-
---[[
--- lua/breeze --
---]]
-require("breeze.init").setup()
-
-
---[[
--- lua --
---]]
---require("diffsigns")
+-- 载入 mini.indentscope 缩进线插件
+require("plugins.mini-indentscope")
+-- 载入 mini.diff 文件差异插件
+require("plugins.mini-diff")
+-- 载入 conform 代码格式化插件
+require("plugins.conform")
+-- 载入 highlight-colors 插件
+require("plugins.highlight-colors")

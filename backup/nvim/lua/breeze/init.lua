@@ -3,7 +3,7 @@ nvim_set_hl({ns_id}, {name}, {val})
 配置高亮组，默认情况下替换整个配置(如`nvim_set_hl(0, 'Visual', {})`将清除Visual组)，除非指定了`update`选项。
 注意：
 # fg与bg也支持字面量"fg"或者"bg"，这将应用Normal组的fg与bg(若Norml组fg/bg不存在则返回错误)
-# 一旦link被使用，所有其他属性都会被忽略​
+# 一旦link被使用，所有其他属性都会被忽略
 语法：
 # {ns_id} = integer. 0表示全局配置
 # {name} = string. 高亮组名称
@@ -18,7 +18,7 @@ nvim_set_hl({ns_id}, {name}, {val})
 - cterm: cterm attribute map. 设置终端文本的显示属性
 - ctermbg: 设置终端背景的显示属性
 - ctermfg: 设置终端前景的显示属性
-- default = boolean. 只有当该高亮组尚未定义​时所有的配置才生效
+- default = boolean. 只有当该高亮组尚未定义时所有的配置才生效
 - dim = boolean. 变暗
 - fg = string. 前景色，颜色名称或者RGB
 - fg_indexed = boolean. 前景色仅为ctermfg的颜色估计，采用ctermfg的样式

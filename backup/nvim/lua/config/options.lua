@@ -31,12 +31,11 @@ o.listchars = { tab = "⇥ ", trail = "·", nbsp = "␣" }
 o.number = true                             -- 显示行号
 o.relativenumber = true                     -- 显示相对行号
 o.showmode = true                           -- 显示当前模式
-
+o.termguicolors = true                      -- 使用终端调色板
 
 --[[
 -- 其他 --
 --]]
-o.clipboard = "unnamedplus"                 -- 使用系统剪切板
 o.history = 100                             -- 保存100条历史命令
 o.mouse = "a"                               -- 允许使用鼠标
 o.mousehide = true                          -- 输入时隐藏鼠标

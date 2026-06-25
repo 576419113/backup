@@ -19,3 +19,5 @@ backup:
     - "~/.var/app/com.github.Anuken.Mindustry/data/Mindustry/saves/"
     - "~/.var/app/com.github.Anuken.Mindustry/data/Mindustry/settings.bin"
   nvim: "~/.config/nvim/*"
+  zsh: "~/.config/zsh/*.zsh"
+  kitty: "~/.config/kitty*"
