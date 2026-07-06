@@ -110,20 +110,20 @@ disk_write("groups/treesitter.lua", target_treesitter_groups, disk_treesitter_gr
 -- lsp 高亮组
 -- ============================================================
 
-for _,client in ipairs(vim.lsp.get_clients()) do
+for _, client in ipairs(vim.lsp.get_clients()) do
     print(string.format("Client: %s (id=%d)", client.name, client.id))
     local provider = client.server_capabilities.semanticTokensProvider
-  if provider and provider.legend then
-    local legend = provider.legend
-    print("  Token Types:")
-    for _,token in ipairs(legend.tokenTypes) do
-        print(token)
-    end
+    if provider and provider.legend then
+        local legend = provider.legend
+        print("  Token Types:")
+        for _, token in ipairs(legend.tokenTypes) do
+            print(token)
+        end
         print("  Token Modifiers:")
-   for _,token in ipairs(legend.tokenModifiers) do
-        print(token)
+        for _, token in ipairs(legend.tokenModifiers) do
+            print(token)
+        end
+    else
+        print("  ⚠ No semanticTokensProvider")
     end
-  else
-    print("  ⚠ No semanticTokensProvider")
-  end
 end

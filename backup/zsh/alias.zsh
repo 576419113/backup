@@ -18,3 +18,13 @@ alias cddnvim='cd ~/.local/share/nvim'
 alias cdczsh='cd ~/.config/zsh'
 # cd config kitty
 alias cdckitty='cd ~/.config/kitty'
+# cd config mpv
+alias cdcmpv='cd ~/.config/mpv'
+# cd config ncmpcpp
+alias cdncmpcpp='cd ~/.config/ncmpcpp'
+# cd config mpd
+alias cdcmpd='cd ~/.config/mpd'
+# cd config pipewire
+alias cdcpipewire='cd ~/.config/pipewire'
+# cd config wireplumber
+alias cdcwireplumber='cd ~/.config/wireplumber'
