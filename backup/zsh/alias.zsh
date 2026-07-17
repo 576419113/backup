@@ -11,20 +11,13 @@ alias ggcc='gcc -g -Og -fstack-protector-all -fstack-check -D_GLIBCXX_DEBUG -D_G
 alias vim='nvim'
 alias nano='nvim'
 alias vi='nvim'
-# cd config/data nvim
-alias cdcnvim='cd ~/.config/nvim'
-alias cddnvim='cd ~/.local/share/nvim'
-# cd config zsh
-alias cdczsh='cd ~/.config/zsh'
-# cd config kitty
-alias cdckitty='cd ~/.config/kitty'
-# cd config mpv
-alias cdcmpv='cd ~/.config/mpv'
-# cd config ncmpcpp
-alias cdncmpcpp='cd ~/.config/ncmpcpp'
-# cd config mpd
-alias cdcmpd='cd ~/.config/mpd'
-# cd config pipewire
-alias cdcpipewire='cd ~/.config/pipewire'
-# cd config wireplumber
-alias cdcwireplumber='cd ~/.config/wireplumber'
+# 快速编辑 HyprArch 文件
+alias vihyprarch='nvim ~/Documents/HyprArch.md'
+
+# cd config/data
+cdc() {
+    cd "$HOME/.config/$1"
+}
+cdd() {
+    cd "$HOME/.local/share/$1"
+}

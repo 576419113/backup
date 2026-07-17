@@ -9,18 +9,17 @@ local language = {
     -- C系列
     "clangd",
     -- Web系列
-    "cssls",
-    "html",
-    "denols",
+    "cssls", "html", "denols", "tsserver",
     -- Markdown
     "marksman",
     -- Python
     "pylsp",
     -- Lua
     "lua_ls",
+    -- Qml
+    "qmlls",
     -- 配置文件系列
-    "jsonls",
-    "yamlls",
+    "jsonls", "yamlls",
 }
 
 -- blink.cmp 兼容性
@@ -32,7 +31,7 @@ vim.lsp.config("*", {
 vim.lsp.config("lua_ls", {
     settings = {
         Lua = {
-            diagnostics = { globals = { "vim" } },
+            diagnostics = { globals = { "vim", "hl" } },
         },
     },
 })
@@ -58,6 +57,13 @@ vim.filetype.add({
 })
 vim.lsp.config("bashls", {
     filetypes = { "sh", "bash", "zsh" },
+})
+
+-- Qmlls 配置
+vim.lsp.config("qmlls", {
+    on_attach = function(client, bufnr)
+        client.server_capabilities.semanticTokensProvider = nil
+    end,
 })
 
 -- 启用语言
@@ -89,3 +95,8 @@ vim.diagnostic.config({
     },
     signs = true, -- 行号旁符号
 })
+
+--[[
+-- LSP 颜色预览 --
+--]]
+vim.lsp.document_color.enable(true, { nil, nil }, { style = "virtual" })

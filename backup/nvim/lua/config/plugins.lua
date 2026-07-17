@@ -14,8 +14,6 @@ local plugins = {
     "https://github.com/nvim-mini/mini.diff",
     -- 代码格式化插件
     "https://github.com/stevearc/conform.nvim",
-    -- 颜色高亮预览插件
-    "https://github.com/brenoprata10/nvim-highlight-colors",
 }
 
 vim.pack.add(plugins)

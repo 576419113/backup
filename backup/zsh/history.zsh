@@ -12,5 +12,5 @@ setopt HIST_REDUCE_BLANKS     # 去掉多余空格再存
 autoload -Uz up-line-or-beginning-search down-line-or-beginning-search
 zle -N up-line-or-beginning-search
 zle -N down-line-or-beginning-search
-bindkey '^[[A' up-line-or-beginning-search     # 上箭头
-bindkey '^[[B' down-line-or-beginning-search   # 下箭头
+bindkey -M viins '^[[A' up-line-or-beginning-search     # 上箭头
+bindkey -M viins '^[[B' down-line-or-beginning-search   # 下箭头

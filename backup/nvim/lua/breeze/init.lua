@@ -42,47 +42,26 @@ nvim_set_hl({ns_id}, {name}, {val})
 
 local M = {}
 
-local groups = require("breeze.groups").setup()
-
-local function str_to_map(str)
-    if type(str) ~= "string" then
-        return nil
-    end
-    local ok, chunk = pcall(load, "return " .. str)
-    if not ok or not chunk then
-        return nil
-    end
-    local success, result = pcall(chunk)
-    if success and type(result) == "table" then
-        return result
-    end
-    return nil
-end
+M.categories = {
+    "common",
+    "editor",
+    "treesitter",
+    "lsp",
+}
 
 M.setup = function()
-    local color = {}
-    vim.cmd.hi("clear")
-    if vim.o.background == "dark" then
-        color = require("breeze.breeze-dark").setup()
-        vim.g.colors_name = "breeze-dark"
-    else
-        color = require("breeze.breeze-light").setup()
-        vim.g.colors_name = "breeze-light"
-    end
-    for group,group_value in pairs(groups) do
-        local value = {}
-        if group_value:find("#", 1, true) then
-            value = str_to_map(group_value:sub(2, -1))
-            vim.api.nvim_set_hl(0, group, value)
-        else
-            if color[group_value] == nil then
-                vim.notify("group " .. group .. " mismatched!", vim.log.levels.WARN)
-                goto continue
+    for _,category in ipairs(M.categories) do
+        for group,value in pairs(require("breeze.groups." .. category).setup()) do
+            if not vim.tbl_isempty(value) then
+                local ok,err = pcall(vim.api.nvim_set_hl, 0, group, value)
+                if not ok then
+                    vim.notify(
+                        string.format('"%s - %s" highlighted failed! %s', category, group, err),
+                        vim.log.levels.WARN
+                    )
+                end
             end
-            value = color[group_value]
-            vim.api.nvim_set_hl(0, group, value)
         end
-        ::continue::
     end
 end
 

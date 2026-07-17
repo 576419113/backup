@@ -12,10 +12,12 @@ local parsers = {
     -- 配置文件系列
     "xml", "json", "json5", "ini", "toml", "yaml",
     -- MarkDown系列
-    "markdown", "markdown_inline"
+    "markdown", "markdown_inline",
+    -- Qml 系列
+    "qmldir", "qmljs",
 }
 
 require("tree-sitter-manager").setup({
-    ensure_installed = parsers, -- list of parsers to install at the start of a neovim session. If set to "all", install all parsers.
+    ensure_installed = parsers,
     highlight = true,
 })

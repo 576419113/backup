@@ -2,7 +2,6 @@
 backup:
   mpv: "~/.config/mpv/*"
   mpd: "~/.config/mpd/*"
-  ncmpcpp: "~/.config/ncmpcpp/*"
   fontconfig: "~/.config/fontconfig/*"
   pipewire: "~/.config/pipewire/*"
   wireplumber: "~/.config/wireplumber/*"
@@ -10,14 +9,10 @@ backup:
     - "~/.local/share/fcitx5/rime/wanxiang.userdb"
     - "~/.local/share/fcitx5/rime/*.custom.yaml"
   pacman: "/etc/pacman.d/hooks/*"
-  bash:
-    - "~/.bashrc"
-    - "~/.inputrc"
-  Beiming\ C++\ Library: "~/Program/Beiming\\ C++\\ Library/*"
+  Beiming\ C++\ Library: "~/Projects/Beiming\\ C++\\ Library/*"
   tlp: "/etc/tlp.conf"
-  mindustry:
-    - "~/.var/app/com.github.Anuken.Mindustry/data/Mindustry/saves/"
-    - "~/.var/app/com.github.Anuken.Mindustry/data/Mindustry/settings.bin"
   nvim: "~/.config/nvim/*"
-  zsh: "~/.config/zsh/*.zsh"
+  zsh: "~/.config/zsh/*"
   kitty: "~/.config/kitty/*"
+  hyprland: "~/.config/hypr/*"
+  quickshell: "~/.config/quickshell/"

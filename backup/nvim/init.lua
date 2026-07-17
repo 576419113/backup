@@ -30,5 +30,3 @@ require("plugins.mini-indentscope")
 require("plugins.mini-diff")
 -- 载入 conform 代码格式化插件
 require("plugins.conform")
--- 载入 highlight-colors 插件
-require("plugins.highlight-colors")
