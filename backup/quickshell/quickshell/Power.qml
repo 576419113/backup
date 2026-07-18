@@ -4,7 +4,6 @@ import QtQuick
 Rectangle {
     id: power
     property int padding: 5
-    property int timeout: 30
     property bool confirm: false
     implicitHeight: power_icon.height
     implicitWidth: power.confirm ? power_icon.width + poweroff_text.width + reboot_text.width : power_icon.width

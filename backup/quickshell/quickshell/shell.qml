@@ -1,3 +1,4 @@
+//@ pragma UseQApplication
 import Quickshell
 import Quickshell.Hyprland
 import QtQuick
@@ -31,11 +32,16 @@ ShellRoot {
             anchors.rightMargin: 5
             padding: 5
         }
+        Tray {
+            id: tray
+            anchors.right: battery.left
+            anchors.rightMargin: 5
+            padding: 5
+        }
         Power {
             id: power
             anchors.left: parent.left
             padding: 5
-            timeout: 30
         }
     }
 

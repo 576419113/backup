@@ -189,7 +189,6 @@ Rectangle {
                     fillMode: Image.PreserveAspectFit
                     sourceSize.width: 64
                     sourceSize.height: 64
-        z: 1
                 }
             }
             Text {
