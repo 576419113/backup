@@ -14,5 +14,7 @@ backup:
   nvim: "~/.config/nvim/*"
   zsh: "~/.config/zsh/*"
   kitty: "~/.config/kitty/*"
-  hyprland: "~/.config/hypr/*"
+  hyprland: 
+    - "~/.config/hypr/*"
+    - "~/Documents/HyprArch.md"
   quickshell: "~/.config/quickshell/"
