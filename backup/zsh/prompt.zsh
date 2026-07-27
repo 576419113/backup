@@ -16,7 +16,11 @@ _conda_env() {
 
 # 构造主体
 _build_ps_com() {
-    PS_COM="%B%F{14}$(_conda_env)%F{10}${account_icon} %n@%m %F{12}${arch_icon} $(uname -r) %F{13}${folder_icon} %~>%f%b${newline}%F{8}└───%B%F{11}%# %f%b"
+    if [[ $TERM == xterm-kitty ]]; then
+        PS_COM="%B%F{14}$(_conda_env)%F{10}${account_icon} %n@%m %F{12}${arch_icon} $(uname -r) %F{13}${folder_icon} %~>%f%b${newline}%F{8}└───%B%F{11}%# %f%b"
+    else
+        PS_COM="%B%F{6}$(_conda_env)%F{2}${account_icon} %n@%m %F{4}${arch_icon} $(uname -r) %F{5}${folder_icon} %~>%f%b${newline}%F{8}└───%B%F{3}%# %f%b"
+    fi
 }
 
 # 自动执行

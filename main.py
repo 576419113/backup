@@ -7,6 +7,8 @@ if(not os.path.exists("backup")):
 with open('config.yaml', 'r', encoding='utf-8') as file:
     data = yaml.load(file, Loader=yaml.FullLoader)
 for key,value in data["backup"].items():
+    if key[0] == "-":
+        continue
     temp_key=key
     if "\\" in key:
         key=key.replace("\\", "")

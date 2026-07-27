@@ -1,20 +1,23 @@
-#backup内为需要备份的内容，文件夹后的*需要保留，键为备份标识，空格需要带上转义字符
+#backup内为需要备份的内容，*匹配与.匹配(含隐藏文件)，键为备份标识，-减号将保留备份配置
 backup:
-  mpv: "~/.config/mpv/*"
-  mpd: "~/.config/mpd/*"
-  fontconfig: "~/.config/fontconfig/*"
-  pipewire: "~/.config/pipewire/*"
-  wireplumber: "~/.config/wireplumber/*"
+  mpv: "~/.config/mpv/."
+  mpd: "~/.config/mpd/."
+  fontconfig: "~/.config/fontconfig/."
+  pipewire: "~/.config/pipewire/."
+  wireplumber: "~/.config/wireplumber/."
   rime:
     - "~/.local/share/fcitx5/rime/wanxiang.userdb"
-    - "~/.local/share/fcitx5/rime/*.custom.yaml"
-  pacman: "/etc/pacman.d/hooks/*"
-  Beiming\ C++\ Library: "~/Projects/Beiming\\ C++\\ Library/*"
+    - "~/.local/share/fcitx5/rime/*custom.yaml"
+  pacman: "/etc/pacman.d/hooks/."
+  Beiming\ C++\ Library: "~/Projects/Beiming\\ C++\\ Library/."
   tlp: "/etc/tlp.conf"
-  nvim: "~/.config/nvim/*"
-  zsh: "~/.config/zsh/*"
-  kitty: "~/.config/kitty/*"
-  hyprland: 
-    - "~/.config/hypr/*"
+  nvim: "~/.config/nvim/."
+  zsh: "~/.config/zsh/."
+  kitty: "~/.config/kitty/."
+  -hyprland:
+    - "~/.config/hypr/."
     - "~/Documents/HyprArch.md"
-  quickshell: "~/.config/quickshell/"
+  -quickshell: "~/.config/quickshell/."
+  aria2: "~/.config/aria2/."
+  firefox:
+    - "~/.config/mozilla/firefox/*.default-release/user.js"

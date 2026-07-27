@@ -21,3 +21,20 @@ cdc() {
 cdd() {
     cd "$HOME/.local/share/$1"
 }
+
+# LAMP 服务
+lamp() {
+    if [[ $# -ne 1 ]]; then
+        echo "Usage: lamp start|stop|restart"
+        return 1
+    fi
+    case $1 in
+        start|stop|restart) ;;
+        *)
+            echo "Usage: lamp start|stop|restart"
+            return 1
+            ;;
+    esac
+    echo "sudo systemctl $1 httpd php-fpm mariadb"
+    sudo systemctl $1 httpd php-fpm mariadb
+}
