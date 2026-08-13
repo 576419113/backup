@@ -1,0 +1,7 @@
+llvm-vs-code-extensions.vscode-clangd
+ms-ceintl.vscode-language-pack-zh-hans
+theqtcompany.qt-core
+theqtcompany.qt-qml
+twxs.cmake
+usernamehw.errorlens
+zokugun.cron-tasks

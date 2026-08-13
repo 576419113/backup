@@ -1,4 +1,7 @@
-#backup内为需要备份的内容，*匹配与.匹配(含隐藏文件)，键为备份标识，-减号将保留备份配置
+# script 内为执行脚本，在备份前
+script:
+  - "codium --list-extensions > ~/.config/VSCodium/User/extensions.txt"
+# backup 内为需要备份的内容，*匹配与.匹配(含隐藏文件)，键为备份标识，-减号将保留备份配置
 backup:
   mpv: "~/.config/mpv/."
   mpd: "~/.config/mpd/."
@@ -21,3 +24,6 @@ backup:
   aria2: "~/.config/aria2/."
   firefox:
     - "~/.config/mozilla/firefox/*.default-release/user.js"
+  vscodium:
+    - "~/.config/VSCodium/User/settings.json"
+    - "~/.config/VSCodium/User/extensions.txt"

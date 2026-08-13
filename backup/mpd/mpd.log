@@ -90,3 +90,64 @@ load_pat > can not open /usr/local/share/timidity/timidity.cfg, use environment 
 2026-07-05T15:55:01 update: removing 偏爱.flac
 2026-07-05T15:55:01 update: removing  雪见-仙凡之旅.wav
 2026-07-05T15:55:01 update: removing 转瞬朝暮 (片尾曲) .flac
+2026-07-29T14:48:21 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T14:48:29 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-07-29T14:48:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T14:58:26 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-07-29T14:59:03 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T14:59:05 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-07-29T15:21:51 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T15:21:53 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-07-29T15:22:06 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T15:27:24 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-07-29T15:27:24 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T15:31:54 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-07-29T15:32:14 player: played "大鱼海棠/湫兮如风.flac"
+2026-07-29T15:32:15 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T15:36:44 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-07-29T15:37:24 player: played "大鱼海棠/在这个世界相遇.flac"
+2026-07-29T16:21:28 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-07-29T16:21:36 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T16:25:05 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-07-29T16:26:19 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T16:26:20 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-07-29T16:26:46 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T16:28:26 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-07-29T16:28:26 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T16:33:43 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-07-29T16:33:43 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T16:38:07 player: played "大鱼海棠/湫兮如风.flac"
+2026-07-29T16:38:07 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-07-29T16:41:35 player: played "大鱼海棠/OST/01. 椿的梦 序曲(Opening).wav"
+2026-07-29T16:42:57 player: played "大鱼海棠/OST/02. 腾雾奔霄(Horse Riding, Before Ceremony).wav"
+2026-07-29T16:45:31 player: played "大鱼海棠/OST/03. 成年礼(Ceremony).wav"
+2026-07-29T16:46:26 player: played "大鱼海棠/OST/04. 海天之门(Ceremony Climax).wav"
+2026-07-29T16:48:08 player: played "大鱼海棠/OST/05. 美丽的人类世界(Encounter Human World).wav"
+2026-07-29T16:49:49 player: played "大鱼海棠/OST/06. 阳光少年(Vigor Kun).wav"
+2026-07-29T16:50:48 player: played "大鱼海棠/OST/07. 暴风雨的第七日(Chun's Crisis).wav"
+2026-07-29T16:52:23 player: played "大鱼海棠/OST/08. 不被信任的少年(Kun's Accident).wav"
+2026-07-29T16:53:45 player: played "大鱼海棠/OST/09. 少年之死(Kun's Death).wav"
+2026-07-29T16:54:57 player: played "大鱼海棠/OST/10. 爷爷的启示(Old Man's Enlightenment).wav"
+2026-07-29T16:57:17 player: played "大鱼海棠/OST/11. 醒来(Chun's Awakening).wav"
+2026-07-29T16:58:21 player: played "大鱼海棠/OST/12. 椿的决心(Chun's Decision).wav"
+2026-07-29T16:59:01 player: played "大鱼海棠/OST/13. 三手摆渡者(Coming Boat).wav"
+2026-07-29T17:00:10 player: played "大鱼海棠/OST/14. 去往如升楼(To Soul Madam's Palace).wav"
+2026-07-29T17:04:59 player: played "大鱼海棠/OST/15. 椿与灵婆的交易(Deal With Soul Madam).wav"
+2026-07-29T17:07:18 player: played "大鱼海棠/OST/16. 老年椿之梦(Godmother Chun's Dream).wav"
+2026-07-29T17:08:19 player: played "大鱼海棠/OST/17. 在毛毛细雨中飞翔(Chun & Kun's Pleasure Time).wav"
+2026-07-29T17:08:42 player: played "大鱼海棠/OST/18. 鲲在长大(Kun's Growing Process).wav"
+2026-07-29T17:09:20 player: played "大鱼海棠/OST/19. 鼠婆子(Rat Madam's Appearance).wav"
+2026-07-29T17:09:59 player: played "大鱼海棠/OST/20. 鼠婆之舞(Rat Madam's Dance).wav"
+2026-07-29T17:10:58 player: played "大鱼海棠/OST/21. 双头蛇(Fight Against Big Snake).wav"
+2026-07-29T17:11:26 player: played "大鱼海棠/OST/22. 爷爷的黄昏(Dying Old Man).wav"
+2026-07-29T17:13:52 player: played "大鱼海棠/OST/23. 爷爷告别的话(Old Man's Last Words).wav"
+2026-07-29T17:15:12 player: played "大鱼海棠/OST/24. 生长的海棠树(Growing Crabapple Tree).wav"
+2026-07-29T17:16:36 player: played "大鱼海棠/OST/25. 背着椿鲲的湫(Qiu Carry Chun & Kun).wav"
+2026-07-29T17:19:45 player: played "大鱼海棠/OST/26. 椿之梦(Chun's Dream).wav"
+2026-07-29T17:22:23 player: played "大鱼海棠/OST/27. 湫与灵婆的交易(Qiu Deals With Soul Madam).wav"
+2026-07-29T17:27:46 player: played "大鱼海棠/OST/28. 湫之悲(Qiu's Distress).wav"
+2026-07-29T17:29:43 player: played "大鱼海棠/OST/29. 无畏的湫(Brave Qiu).wav"
+2026-07-29T17:31:58 player: played "大鱼海棠/OST/30. 逍遥游(Drifting Chun & Kun).wav"
+2026-07-29T17:35:00 player: played "大鱼海棠/OST/31. 逃离(Escaping Chun & Kun).wav"
+2026-07-29T17:40:08 player: played "大鱼海棠/OST/32. 巨海棠(Chun's Destress And Big Crabapple).wav"
+2026-07-29T17:40:36 player: played "大鱼海棠/OST/33. 无家可归的鲲(Wandering Kun).wav"

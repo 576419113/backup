@@ -1,0 +1,40 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "Hack",
+    "editor.formatOnPaste": true,
+    "files.autoSaveDelay": 30000,
+    "workbench.startupEditor": "none",
+    "editor.cursorBlinking": "smooth",
+    "explorer.confirmDelete": false,
+    "files.associations": {
+        ".clang-format": "yaml",
+        ".clangd": "yaml",
+        "**/lang/*.ts": "xml",
+        "*.desktop": "ini"
+    },
+    "editor.formatOnType": true,
+    "diffEditor.codeLens": true,
+    "diffEditor.experimental.showMoves": true,
+    "editor.suggest.preview": true,
+    "editor.suggest.shareSuggestSelections": true,
+    "files.autoGuessEncoding": true,
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "editor.fontLigatures": false,
+    "editor.suggestSelection": "recentlyUsedByPrefix",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.fontVariations": false,
+    "editor.inlineSuggest.showToolbar": "always",
+    "workbench.tree.indent": 16,
+    "syncSettings.confirmSync": true,
+    "workbench.editorAssociations": {
+        "{git,gitlens,chat-editing-snapshot-text-model,copilot,git-graph,git-graph-3}:/**/*.qrc": "default",
+        "*.qrc": "qt-core.qrcEditor"
+    },
+    "qt-core.additionalQtPaths": [
+        {
+            "name": "Qt-5.15.19-linux-g++-x86_64_from_PATH",
+            "path": "/usr/bin/qmake"
+        }
+    ],
+}
