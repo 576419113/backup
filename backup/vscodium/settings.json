@@ -37,4 +37,6 @@
             "path": "/usr/bin/qmake"
         }
     ],
+    "basedpyright.analysis.typeCheckingMode": "standard",
+    "redhat.telemetry.enabled": true,
 }

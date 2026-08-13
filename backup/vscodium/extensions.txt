@@ -1,7 +1,11 @@
+detachhead.basedpyright
 llvm-vs-code-extensions.vscode-clangd
 ms-ceintl.vscode-language-pack-zh-hans
+ms-python.debugpy
+ms-python.python
+ms-python.vscode-python-envs
+redhat.vscode-yaml
 theqtcompany.qt-core
 theqtcompany.qt-qml
 twxs.cmake
 usernamehw.errorlens
-zokugun.cron-tasks
