@@ -1,0 +1,10 @@
+[6dbc97a5-282b-46d5-a848-1ca0620f8130]
+Description=kitty 的应用程序设置
+decocolor=BreezeDark
+decocolorrule=2
+wmclass=kitty
+wmclassmatch=1
+
+[General]
+count=1
+rules=6dbc97a5-282b-46d5-a848-1ca0620f8130

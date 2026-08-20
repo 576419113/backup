@@ -1,29 +1,33 @@
 # script 内为执行脚本，在备份前
 script:
-  - "codium --list-extensions > ~/.config/VSCodium/User/extensions.txt"
+    - "codium --list-extensions > ~/.config/VSCodium/User/extensions.txt"
 # backup 内为需要备份的内容，*匹配与.匹配(含隐藏文件)，键为备份标识，-减号将保留备份配置
 backup:
-  mpv: "~/.config/mpv/."
-  mpd: "~/.config/mpd/."
-  fontconfig: "~/.config/fontconfig/."
-  pipewire: "~/.config/pipewire/."
-  wireplumber: "~/.config/wireplumber/."
-  rime:
-    - "~/.local/share/fcitx5/rime/wanxiang.userdb"
-    - "~/.local/share/fcitx5/rime/*custom.yaml"
-  pacman: "/etc/pacman.d/hooks/."
-  Beiming\ C++\ Library: "~/Projects/Beiming\\ C++\\ Library/."
-  tlp: "/etc/tlp.conf"
-  nvim: "~/.config/nvim/."
-  zsh: "~/.config/zsh/."
-  kitty: "~/.config/kitty/."
-  -hyprland:
-    - "~/.config/hypr/."
-    - "~/Documents/HyprArch.md"
-  -quickshell: "~/.config/quickshell/."
-  aria2: "~/.config/aria2/."
-  firefox:
-    - "~/.config/mozilla/firefox/*.default-release/user.js"
-  vscodium:
-    - "~/.config/VSCodium/User/settings.json"
-    - "~/.config/VSCodium/User/extensions.txt"
+    mpv: "~/.config/mpv/."
+    mpd: "~/.config/mpd/."
+    fontconfig: "~/.config/fontconfig/."
+    pipewire: "~/.config/pipewire/."
+    wireplumber: "~/.config/wireplumber/."
+    rime:
+        - "~/.local/share/fcitx5/rime/wanxiang.userdb"
+        - "~/.local/share/fcitx5/rime/*custom.yaml"
+    pacman: "/etc/pacman.d/hooks/."
+    Beiming\ C++\ Library: "~/Projects/Beiming\\ C++\\ Library/."
+    tlp: "/etc/tlp.conf"
+    nvim: "~/.config/nvim/."
+    zsh: "~/.config/zsh/."
+    kitty: "~/.config/kitty/."
+    -hyprland:
+        - "~/.config/hypr/."
+        - "~/Documents/HyprArch.md"
+    -quickshell: "~/.config/quickshell/."
+    aria2: "~/.config/aria2/."
+    firefox:
+        - "~/.config/mozilla/firefox/*.default-release/user.js"
+    vscodium:
+        - "~/.config/VSCodium/User/settings.json"
+        - "~/.config/VSCodium/User/extensions.txt"
+    leetcode: "~/.leetcode/."
+    kdeplasma:
+        - "~/.config/kglobalshortcutsrc"
+        - "~/.config/kwinrulesrc"
