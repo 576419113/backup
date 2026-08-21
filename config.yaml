@@ -31,3 +31,4 @@ backup:
     kdeplasma:
         - "~/.config/kglobalshortcutsrc"
         - "~/.config/kwinrulesrc"
+    games: "~/Games/wine/*.sh"
