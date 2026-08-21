@@ -13,6 +13,8 @@ alias nano='nvim'
 alias vi='nvim'
 # 快速编辑 HyprArch 文件
 alias vihyprarch='nvim ~/Documents/HyprArch.md'
+# alist 数据目录
+alias alist='cd ~/.local/share/alist; alist'
 
 # cd config/data
 cdc() {

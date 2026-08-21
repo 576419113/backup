@@ -15,6 +15,7 @@ qwtel.sqlite-viewer
 redhat.vscode-xml
 redhat.vscode-yaml
 remisa.shellman
+tamasfe.even-better-toml
 theqtcompany.qt-core
 theqtcompany.qt-qml
 timonwong.shellcheck
