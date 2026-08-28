@@ -6,9 +6,11 @@ if(not os.path.exists("backup")):
     os.makedirs("backup")
 with open('config.yaml', 'r', encoding='utf-8') as file:
     data = yaml.load(file, Loader=yaml.FullLoader)
+print("Executing some scripts...")
 for value in data["script"]:
     print(value)
     os.system(value)
+print("Backuping groups...")
 for key,value in data["backup"].items():
     if key[0] == "-":
         continue

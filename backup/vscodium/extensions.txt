@@ -3,6 +3,7 @@ detachhead.basedpyright
 geokung.plasma-breeze
 leetcode.vscode-leetcode
 llvm-vs-code-extensions.vscode-clangd
+mathematic.vscode-latex
 ms-ceintl.vscode-language-pack-zh-hans
 ms-python.debugpy
 ms-python.python
@@ -14,6 +15,7 @@ mtxr.sqltools-driver-sqlite
 qwtel.sqlite-viewer
 redhat.vscode-xml
 redhat.vscode-yaml
+remcohaszing.schemastore
 remisa.shellman
 tamasfe.even-better-toml
 theqtcompany.qt-core

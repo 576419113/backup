@@ -4,8 +4,6 @@
 typeset -U path PATH
 # cargo 路径
 path=($HOME/.cargo/bin $path)
-# conda 路径
-path=($HOME/miniconda3/bin $path)
 export PATH
 
 

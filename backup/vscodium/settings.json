@@ -77,4 +77,7 @@
     "shellcheck.exclude": [
         "2148"
     ],
+    "markdown.preview.breaks": true,
+    "markdown.preview.doubleClickToSwitchToEditor": true,
+    "markdown.preview.markEditorSelection": true,
 }

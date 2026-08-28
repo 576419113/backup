@@ -15,6 +15,8 @@ alias vi='nvim'
 alias vihyprarch='nvim ~/Documents/HyprArch.md'
 # alist 数据目录
 alias alist='cd ~/.local/share/alist; alist'
+# 启动 llama.cpp
+alias llama='~/Projects/llama.cpp/build/bin/llama'
 
 # cd config/data
 cdc() {
