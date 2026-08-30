@@ -8,4 +8,4 @@ Target = alsa-ucm-conf
 [Action]
 Description = Remove DualSense alsa-ucm-conf files...
 When = PostTransaction
-Exec = /bin/bash -c "rm /usr/share/alsa/ucm2/USB-Audio/Sony/DualSense-PS5.conf /usr/share/alsa/ucm2/USB-Audio/Sony/DualSense-PS5-HiFi.conf"
+Exec = /bin/bash -c "find /usr/share/alsa/ucm2/USB-Audio/Sony -name DualSense-PS5*.conf -delete"

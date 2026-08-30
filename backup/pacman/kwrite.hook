@@ -9,4 +9,4 @@ Target = kate
 [Action]
 Description = Remove kwrite desktop files...
 When = PostTransaction
-Exec = /bin/bash -c "rm /usr/share/applications/org.kde.kwrite.desktop"
+Exec = /bin/sh -c "find /usr/share/applications -name org.kde.kwrite.desktop -delete"
