@@ -635,3 +635,9 @@ load_pat > can not open /usr/local/share/timidity/timidity.cfg, use environment 
 2026-08-26T00:13:12 player: played "大鱼海棠/大鱼（唱片版）.flac"
 2026-08-26T00:13:12 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
 2026-08-26T00:13:26 player: played "大鱼海棠/湫兮如风.flac"
+2026-08-31T22:47:37 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-08-31T22:47:41 exception: Failed to open /home/beiming/.config/mpd/playlist: No such file or directory
+2026-08-31T22:47:46 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-08-31T22:53:03 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-08-31T22:53:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-08-31T22:53:14 player: played "大鱼海棠/湫兮如风.flac"

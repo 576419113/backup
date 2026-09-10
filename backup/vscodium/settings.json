@@ -80,4 +80,5 @@
     "markdown.preview.breaks": true,
     "markdown.preview.doubleClickToSwitchToEditor": true,
     "markdown.preview.markEditorSelection": true,
+    "vscodium-trans.vscodium-plugins-path": "/home/beiming/.vscode-oss/extensions/",
 }

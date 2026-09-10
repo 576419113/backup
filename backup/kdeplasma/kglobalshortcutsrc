@@ -320,3 +320,7 @@ ToggleTouchpad=Touchpad Toggle
 
 [services][systemsettings.desktop]
 _launch=Tools
+
+[wechat]
+_k_friendly_name=wechat
+screenshot=none,none,截图

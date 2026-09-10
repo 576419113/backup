@@ -42,3 +42,10 @@ lamp() {
     echo "sudo systemctl $1 httpd php-fpm mariadb"
     sudo systemctl $1 httpd php-fpm mariadb
 }
+
+# 关闭 WayDroid
+waydroid-kill()
+{
+    echo 'waydroid session stop; sudo systemctl stop waydroid-container'
+    waydroid session stop; sudo systemctl stop waydroid-container
+}
