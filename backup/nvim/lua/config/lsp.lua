@@ -60,12 +60,13 @@ vim.lsp.config("bashls", {
 })
 
 -- Qmlls 配置
+-- [[
 vim.lsp.config("qmlls", {
     on_attach = function(client, bufnr)
         client.server_capabilities.semanticTokensProvider = nil
     end,
 })
-
+-- ]]
 -- 启用语言
 vim.lsp.enable(language)
 

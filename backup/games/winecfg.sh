@@ -1,9 +1,8 @@
 #!/bin/bash
 
 # ===== 用户配置区域 =====
-PROTON_PATH="/usr/share/steam/compatibilitytools.d/proton-cachyos-slr"
-#APP_EXE="$HOME/.local/share/Steam/steamapps/common/Life Is Strange/《奇异人生》虎头汉化简体精校汉化补丁4.1.exe"             # 替换为你的应用路径
-PFX_DIR="$HOME/.local/share/Steam/steamapps/compatdata/1388880"       # 独立前缀目录
+PROTON_PATH="/usr/share/steam/compatibilitytools.d/proton-cachyos-slr"             # 替换为你的应用路径
+PFX_DIR="$HOME/.local/share/Steam/steamapps/compatdata/2277560"       # 独立前缀目录
 #steam游戏参考为steamapps/compatdata/491950/
 # ========================
 
@@ -61,4 +60,4 @@ fi
 
 # 启动应用程序
 echo "使用 Proton-Cachyos 启动应用程序..."
-"$PROTON_PATH/proton" run winecfg
+"$PROTON_PATH/proton" run control joy.cpl

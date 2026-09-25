@@ -1,6 +1,6 @@
 {
     "files.autoSave": "afterDelay",
-    "editor.fontFamily": "Hack",
+    "editor.fontFamily": "Maple Mono NL NF CN",
     "editor.formatOnPaste": true,
     "files.autoSaveDelay": 30000,
     "workbench.startupEditor": "none",
@@ -10,7 +10,8 @@
         ".clang-format": "yaml",
         ".clangd": "yaml",
         "**/lang/*.ts": "xml",
-        "*.desktop": "ini"
+        "*.desktop": "ini",
+        "fonts.conf": "xml"
     },
     "editor.formatOnType": true,
     "diffEditor.codeLens": true,
@@ -20,23 +21,16 @@
     "files.autoGuessEncoding": true,
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
-    "editor.fontLigatures": false,
+    "editor.fontLigatures": "'zero'",
     "editor.suggestSelection": "recentlyUsedByPrefix",
     "editor.bracketPairColorization.enabled": false,
     "editor.fontVariations": false,
     "editor.inlineSuggest.showToolbar": "always",
     "workbench.tree.indent": 16,
-    "syncSettings.confirmSync": true,
     "workbench.editorAssociations": {
         "{git,gitlens,chat-editing-snapshot-text-model,copilot,git-graph,git-graph-3}:/**/*.qrc": "default",
         "*.qrc": "qt-core.qrcEditor"
     },
-    "qt-core.additionalQtPaths": [
-        {
-            "name": "Qt-5.15.19-linux-g++-x86_64_from_PATH",
-            "path": "/usr/bin/qmake"
-        }
-    ],
     "basedpyright.analysis.typeCheckingMode": "standard",
     "redhat.telemetry.enabled": true,
     "editor.fontSize": 16,
@@ -81,4 +75,24 @@
     "markdown.preview.doubleClickToSwitchToEditor": true,
     "markdown.preview.markEditorSelection": true,
     "vscodium-trans.vscodium-plugins-path": "/home/beiming/.vscode-oss/extensions/",
+    "qt-core.showWelcomePageOnActivation": false,
+    "qt-core.additionalQtPaths": [
+        {
+            "name": "Qt-6.11.2-linux-g++-x86_64",
+            "path": "/usr/bin/qmake6"
+        },
+        {
+            "name": "Qt-5.15.19-linux-g++-x86_64_from_PATH",
+            "path": "/usr/bin/qtpaths"
+        }
+    ],
+    "qt-qml.doNotAskForQmllsDownload": true,
+    "qt-qml.qmlls.customDocsPath": "/usr/share/doc/qt6/",
+    "qt-qml.qmlls.customExePath": "/usr/lib/qt6/bin/qmlls",
+    "qt-qml.qmlls.traceLsp": "verbose",
+    "qt-qml.qmlls.verboseOutput": true,
+    "explorer.confirmDragAndDrop": false,
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "xml.catalogs": [ "/etc/xml/catalog" ]
 }

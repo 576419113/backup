@@ -10,6 +10,7 @@ ms-ceintl.vscode-language-pack-zh-hans
 ms-python.debugpy
 ms-python.python
 ms-python.vscode-python-envs
+ms-vscode.cmake-tools
 ms-vscode.hexeditor
 mtxr.sqltools
 mtxr.sqltools-driver-mysql
@@ -22,9 +23,10 @@ remcohaszing.schemastore
 remisa.shellman
 tamasfe.even-better-toml
 theqtcompany.qt-core
+theqtcompany.qt-cpp
+theqtcompany.qt-python
 theqtcompany.qt-qml
 timonwong.shellcheck
-twxs.cmake
 usernamehw.errorlens
 vscjava.vscode-gradle
 vscjava.vscode-java-debug
@@ -32,3 +34,4 @@ vscjava.vscode-java-dependency
 vscjava.vscode-java-pack
 vscjava.vscode-java-test
 vscjava.vscode-maven
+yzhang.markdown-all-in-one
