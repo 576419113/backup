@@ -40,7 +40,7 @@ lamp() {
             ;;
     esac
     echo "sudo systemctl $1 httpd php-fpm mariadb"
-    sudo systemctl $1 httpd php-fpm mariadb
+    sudo systemctl "$1" httpd php-fpm mariadb
 }
 
 # 关闭 WayDroid
@@ -48,4 +48,29 @@ waydroid-kill()
 {
     echo 'waydroid session stop; sudo systemctl stop waydroid-container'
     waydroid session stop; sudo systemctl stop waydroid-container
+}
+
+# FFmpeg 快速工具
+ffmpeg-tool()
+{
+    _ffmpeg-tool_usage()
+    {
+        echo "Usage: ffmpeg-tool <option> <file>"
+        echo "<option>  spectrum      -- Generate audio spectrum"
+        echo "<file>    The file path"
+    }
+    if [[ $# -ne 2 ]]; then
+        _ffmpeg-tool_usage
+        return 1
+    fi
+    case $1 in
+        spectrum)
+            echo "ffmpeg -i $2 -filter_complex showspectrumpic=s=2560x1440:color=rainbow:legend=1 -frames:v 1 $2.png"
+            ffmpeg -i "$2" -filter_complex showspectrumpic=s=2560x1440:color=rainbow:legend=1 -frames:v 1 "$2.png"
+            ;;
+        *)
+            _ffmpeg-tool_usage
+            return 1
+            ;;
+    esac
 }

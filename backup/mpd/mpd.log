@@ -386,3 +386,1578 @@
 2026-09-18T20:34:07 player: played "大鱼海棠/OST/07. 暴风雨的第七日(Chun's Crisis).wav"
 2026-09-18T20:35:43 player: played "大鱼海棠/OST/08. 不被信任的少年(Kun's Accident).wav"
 2026-09-18T20:36:19 player: played "大鱼海棠/OST/09. 少年之死(Kun's Death).wav"
+2026-09-26T09:08:59 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:09:05 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:09:59 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T09:16:18 exception: Failed to decode "/home/beiming/Music/大鱼海棠/大鱼（唱片版）.wav"; Failed to open "/home/beiming/Music/大鱼海棠/大鱼（唱片版）.wav": No such file or directory
+2026-09-26T09:16:18 player: played "大鱼海棠/大鱼（唱片版）.wav"
+2026-09-26T09:16:27 exception: Failed to decode "/home/beiming/Music/大鱼海棠/大鱼（唱片版）.wav"; Failed to open "/home/beiming/Music/大鱼海棠/大鱼（唱片版）.wav": No such file or directory
+2026-09-26T09:16:27 player: played "大鱼海棠/大鱼（唱片版）.wav"
+2026-09-26T09:16:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:18:43 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T09:18:57 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:24:19 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:24:49 player: played "Finding Paradise OST/58 Every Single Memory (by RIOTxRYKER).flac"
+2026-09-26T09:25:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:28:09 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-26T09:28:29 player: played "最美的青春/最美的颜色.flac"
+2026-09-26T09:28:38 player: played "最美的青春/最美的颜色伴奏.flac"
+2026-09-26T09:28:38 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:28:41 player: played "最美的青春/最美的颜色伴奏.flac"
+2026-09-26T09:28:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:30:57 player: played "最美的青春/最美的颜色伴奏.flac"
+2026-09-26T09:31:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:34:58 player: played "三国杀/长乐调.flac"
+2026-09-26T09:35:18 player: played "三国杀/长乐调 伴奏.flac"
+2026-09-26T09:35:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:37:48 player: played "星战前夜/银海青花Blue-And-White Galaxy.flac"
+2026-09-26T09:37:48 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:39:45 player: played "星战前夜/水龙吟 Dragon Chant.flac"
+2026-09-26T09:40:11 player: played "星战前夜/黄金年代 (Golden Age).flac"
+2026-09-26T09:40:46 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:42:41 player: played "纸嫁衣/【双声道】你离开的村落.flac"
+2026-09-26T09:42:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:45:51 player: played "纸嫁衣/你离开的村落伴奏.flac"
+2026-09-26T09:45:51 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:45:57 player: played "纸嫁衣/【双声道】你离开的村落.flac"
+2026-09-26T09:45:57 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:50:11 player: played "三体/岁月成碑.mp3"
+2026-09-26T09:50:23 player: played "三体/岁月成碑 原版伴奏.mp3"
+2026-09-26T09:50:23 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:55:26 player: played "三体/夜航星 (Night Voyager).flac"
+2026-09-26T09:55:29 player: played "三体/夜航星 (Night Voyager) (Instrumental).flac"
+2026-09-26T09:55:46 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T09:57:55 player: played "疑案追声/Unheard.wav"
+2026-09-26T10:00:04 player: played "疑案追声/Unheard(vocal).wav"
+2026-09-26T10:01:05 update: removing 大鱼海棠/大鱼（唱片版）.wav
+2026-09-26T10:01:05 update: added /哥哥妹妹 - 花与剑.wav
+2026-09-26T10:01:07 player: played "疑案追声/Unheard(smooth).wav"
+2026-09-26T10:03:22 player: played "疑案追声/Unheard(final drop).wav"
+2026-09-26T10:07:25 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T10:07:26 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2026-09-26T10:11:33 player: played "哥哥妹妹 - 花与剑.wav"
+2026-09-26T10:16:05 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T10:16:06 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2026-09-26T10:16:11 player: played "哥哥妹妹 - 花与剑.wav"
+2026-09-26T10:16:12 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T10:16:12 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2026-09-26T10:16:12 player: played "哥哥妹妹 - 花与剑.wav"
+2026-09-26T11:03:42 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:04:19 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:05:47 update: added 试听歌曲/大地之母.wav
+2026-09-26T11:05:47 update: added 试听歌曲/何须问.wav
+2026-09-26T11:05:47 update: added 试听歌曲/呼钺之舞.wav
+2026-09-26T11:05:47 update: added 试听歌曲/偏爱.flac
+2026-09-26T11:05:47 update: added 试听歌曲/扑火.flac
+2026-09-26T11:05:47 update: added 试听歌曲/肃问.wav
+2026-09-26T11:05:47 update: added 试听歌曲/逍遥叹.wav
+2026-09-26T11:05:47 update: added 试听歌曲/雪见-仙凡之旅.wav
+2026-09-26T11:05:47 update: added 试听歌曲/纸嫁衣同人（七月半，嫁新娘）.flac
+2026-09-26T11:05:47 update: added 试听歌曲/周深 - 永恒孤独.flac
+2026-09-26T11:05:47 update: added 试听歌曲/转轮.flac
+2026-09-26T11:05:47 update: added 试听歌曲/转瞬朝暮 (片尾曲) .flac
+2026-09-26T11:06:04 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:08:38 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:09:05 exception: Failed to decode "/home/beiming/Music/哥哥妹妹 - 花与剑.wav"; Failed to open "/home/beiming/Music/哥哥妹妹 - 花与剑.wav": No such file or directory
+2026-09-26T11:09:05 player: played "哥哥妹妹 - 花与剑.wav"
+2026-09-26T11:09:11 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:12:43 player: played "试听歌曲/偏爱.flac"
+2026-09-26T11:17:56 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T11:17:57 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:18:57 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-26T11:18:57 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:21:56 player: played "试听歌曲/大地之母.wav"
+2026-09-26T11:25:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:25:44 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:25:46 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:25:47 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:25:47 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:25:50 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:28:22 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T11:28:44 player: played "试听歌曲/何须问.wav"
+2026-09-26T11:28:44 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:29:38 update: removing 试听歌曲/何须问.wav
+2026-09-26T11:32:27 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:32:36 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:33:56 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-26T11:34:07 player: played "试听歌曲/转轮.flac"
+2026-09-26T11:34:07 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:38:58 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-26T11:39:08 player: played "试听歌曲/周深 - 永恒孤独.flac"
+2026-09-26T11:39:08 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:42:52 player: played "试听歌曲/肃问.wav"
+2026-09-26T11:42:53 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:46:03 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-26T11:46:20 player: played "试听歌曲/扑火.flac"
+2026-09-26T11:46:21 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T11:49:21 player: played "试听歌曲/纸嫁衣同人（七月半，嫁新娘）.flac"
+2026-09-26T11:52:50 player: played "试听歌曲/转瞬朝暮 (片尾曲) .flac"
+2026-09-26T20:29:49 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:29:56 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:03 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:05 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:06 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:07 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:09 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:21 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:23 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:24 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:28 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:30:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:31:13 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T20:35:58 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:36:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:36:11 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T20:36:14 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:36:21 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T20:36:30 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:36:34 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T20:36:35 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T20:37:06 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:11:55 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:01 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:05 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:08 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:10 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:10 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:11 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:12 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:12 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:13 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:14 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:14 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:15 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:15 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:16 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:17 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:18 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:26 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:27 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T22:12:28 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T22:12:29 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:01:20 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:38 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:45 player: played "试听歌曲/周深 - 永恒孤独.flac"
+2026-09-26T23:01:45 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:52 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:01:53 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:53 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:01:54 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:55 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:01:56 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:57 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:01:58 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:01:59 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:02:00 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:01 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:02:01 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:02 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:02:02 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:03 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:02:03 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:04 player: played "试听歌曲/肃问.wav"
+2026-09-26T23:02:11 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:12 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:12 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:14 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:14 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:15 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:16 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:16 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:17 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:18 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:19 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:20 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:02:25 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:28 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:29 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:29 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:31 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:33 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:34 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:36 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:37 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:38 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:42 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:43 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:02:51 player: played "试听歌曲/逍遥叹.wav"
+2026-09-26T23:28:06 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:25 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:26 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:27 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:28 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:29 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:29 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:30 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:33 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:34 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:34 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:35 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:35 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:35 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:28:36 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:28:36 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:29:01 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:02 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:03 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:03 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:04 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:04 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:05 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:05 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:06 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:06 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:06 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:07 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:07 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:08 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:29:08 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:29:42 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:34:28 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-26T23:34:29 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:34:42 player: played "试听歌曲/转轮.flac"
+2026-09-26T23:34:42 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:37:22 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:37:25 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:37:26 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:37:27 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:37:28 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-26T23:37:28 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-26T23:37:29 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:33:24 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:33:33 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:12 player: played "试听歌曲/偏爱.flac"
+2026-09-27T12:34:13 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:14 player: played "试听歌曲/偏爱.flac"
+2026-09-27T12:34:15 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:15 player: played "试听歌曲/偏爱.flac"
+2026-09-27T12:34:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:17 player: played "试听歌曲/偏爱.flac"
+2026-09-27T12:34:18 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:18 player: played "试听歌曲/偏爱.flac"
+2026-09-27T12:34:36 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:37 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:34:38 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:39 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:34:40 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:41 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:34:44 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:46 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:34:47 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:48 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:34:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:50 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:34:50 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:34:51 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-27T12:35:33 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:39:06 player: played "试听歌曲/偏爱.flac"
+2026-09-27T12:44:19 player: played "试听歌曲/逍遥叹.wav"
+2026-09-27T12:44:19 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:45:19 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-27T12:45:20 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:48:18 player: played "试听歌曲/大地之母.wav"
+2026-09-27T12:53:04 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-27T12:53:05 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T12:58:13 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-27T12:58:34 player: played "试听歌曲/转轮.flac"
+2026-09-27T13:03:23 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-27T13:03:42 player: played "试听歌曲/周深 - 永恒孤独.flac"
+2026-09-27T13:03:42 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T13:07:27 player: played "试听歌曲/肃问.wav"
+2026-09-27T13:07:27 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T13:10:37 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-27T13:10:55 player: played "试听歌曲/扑火.flac"
+2026-09-27T13:10:55 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T13:13:55 player: played "试听歌曲/纸嫁衣同人（七月半，嫁新娘）.flac"
+2026-09-27T13:17:25 player: played "试听歌曲/转瞬朝暮 (片尾曲) .flac"
+2026-09-27T13:17:34 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T13:20:09 player: played "星战前夜/银海青花Blue-And-White Galaxy.flac"
+2026-09-27T13:22:07 player: played "星战前夜/水龙吟 Dragon Chant.flac"
+2026-09-27T13:22:16 player: played "星战前夜/黄金年代 (Golden Age).flac"
+2026-09-27T13:22:16 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-27T13:24:51 player: played "星战前夜/银海青花Blue-And-White Galaxy.flac"
+2026-09-28T15:25:31 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-28T15:26:34 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-28T15:27:44 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-28T15:28:23 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-28T15:28:59 player: played "A Bird Story OST/01. A Bird Story (Title Theme).mp3"
+2026-09-30T15:59:14 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:00:27 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:01:20 player: played "试听歌曲/偏爱.flac"
+2026-09-30T16:01:21 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:01:22 player: played "试听歌曲/偏爱.flac"
+2026-09-30T16:01:23 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:01:23 player: played "试听歌曲/偏爱.flac"
+2026-09-30T16:01:23 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:01:24 player: played "试听歌曲/偏爱.flac"
+2026-09-30T16:03:58 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:04:01 player: played "试听歌曲/偏爱.flac"
+2026-09-30T16:04:09 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:07:42 player: played "试听歌曲/偏爱.flac"
+2026-09-30T16:12:55 player: played "试听歌曲/逍遥叹.wav"
+2026-09-30T16:12:56 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:13:55 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-30T16:13:56 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:16:55 player: played "试听歌曲/大地之母.wav"
+2026-09-30T16:21:41 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-30T16:21:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:23:33 player: played "试听歌曲/转轮.flac"
+2026-09-30T16:24:31 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:27:31 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-30T16:27:51 player: played "试听歌曲/转轮.flac"
+2026-09-30T16:32:41 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-30T16:32:43 player: played "试听歌曲/周深 - 永恒孤独.flac"
+2026-09-30T16:32:43 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:34:14 player: played "试听歌曲/扑火.flac"
+2026-09-30T16:34:14 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:35:31 player: played "试听歌曲/转瞬朝暮 (片尾曲) .flac"
+2026-09-30T16:35:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:35:52 player: played "Finding Paradise OST/57 Ending Theme.flac"
+2026-09-30T16:35:52 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:39:50 player: played "Finding Paradise OST/58 Every Single Memory (by RIOTxRYKER).flac"
+2026-09-30T16:39:51 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:40:45 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-30T16:41:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:42:17 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-30T16:42:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:43:00 player: played "试听歌曲/大地之母.wav"
+2026-09-30T16:44:03 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:46:30 player: played "星战前夜/银海青花Blue-And-White Galaxy.flac"
+2026-09-30T16:47:02 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:50:09 flac: FLAC__STREAM_DECODER_ERROR_STATUS_LOST_SYNC
+2026-09-30T16:50:23 player: played "最美的青春/最美的颜色.flac"
+2026-09-30T16:50:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:52:18 player: played "大鱼海棠/OST/01. 椿的梦 序曲(Opening).wav"
+2026-09-30T16:52:40 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T16:56:11 player: played "三国杀/长乐调.flac"
+2026-09-30T16:56:31 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:00:24 player: played "三体/岁月成碑.mp3"
+2026-09-30T17:03:20 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:03:27 player: played "试听歌曲/偏爱.flac"
+2026-09-30T17:03:27 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:04:02 player: played "试听歌曲/偏爱.flac"
+2026-09-30T17:04:03 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:07:35 player: played "试听歌曲/偏爱.flac"
+2026-09-30T17:12:48 player: played "试听歌曲/逍遥叹.wav"
+2026-09-30T17:12:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:13:49 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-30T17:13:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:16:48 player: played "试听歌曲/大地之母.wav"
+2026-09-30T17:21:34 player: played "试听歌曲/雪见-仙凡之旅.wav"
+2026-09-30T17:21:34 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:21:42 player: played "试听歌曲/转轮.flac"
+2026-09-30T17:21:42 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:22:42 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-30T17:22:42 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:22:43 player: played "试听歌曲/大地之母.wav"
+2026-09-30T17:22:43 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:25:24 player: played "试听歌曲/纸嫁衣同人（七月半，嫁新娘）.flac"
+2026-09-30T17:25:24 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:26:24 player: played "试听歌曲/呼钺之舞.wav"
+2026-09-30T17:26:24 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:26:49 player: played "试听歌曲/大地之母.wav"
+2026-09-30T17:26:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:29:22 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-09-30T17:29:23 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:33:51 update: added 大鱼海棠/test.wav
+2026-09-30T17:33:51 update: added /折镜之蝶.wav
+2026-09-30T17:33:51 update: removing 哥哥妹妹 - 花与剑.wav
+2026-09-30T17:34:06 player: played "试听歌曲/转轮.flac"
+2026-09-30T17:34:07 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:36:01 player: played "折镜之蝶.wav"
+2026-09-30T17:37:26 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:39:20 player: played "折镜之蝶.wav"
+2026-09-30T17:40:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:42:34 player: played "折镜之蝶.wav"
+2026-09-30T17:42:46 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:45:30 player: played "Finding Paradise OST/58 Every Single Memory (by RIOTxRYKER).flac"
+2026-09-30T17:45:30 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-09-30T17:50:45 player: played "大鱼海棠/大鱼（唱片版）.flac"
+2026-10-06T12:34:46 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T12:48:14 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/01. 效果音·系统篇.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/02. 效果音·法庭篇.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/03. 效果音·心理描写篇.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/05. 效果音·动物篇.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/04. 效果音·音效与角色篇.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/06. 效果音·机械篇.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/07. 绫里真宵～逆转姐妹的主题⁄编曲版本.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/09. 逆转裁判～2003宣传影像音轨.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/08. 精神枷锁整理版本.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-附赠音乐/10. 逆转裁判3～特别混合.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/01. 逆转裁判・序章.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/03. 逆转裁判·开庭.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/04. 讯问～中板 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/06. 成步堂龙一～异议！ 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/10. 悬疑.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/17. 追忆～伤心的真宵.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/22. 追忆～DL6号事件.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/24. 追忆～学级裁判.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/26. 逆转裁判・终幕.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/02. 被告休息室～开始的序曲.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/05. 逻辑与推理.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/07. 审问～快板 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/08. 追求～无路可退.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/09. 真相的诉说 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/11. 追求～无路可退 变奏.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/12. 叮叮～还没结束呢.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/13. 调查～序盘 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/14. 绫里真宵～逆转姐妹 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/15. 看守所～看守的挽歌.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/16. 糸锯圭介～糸锯圭介在此的说.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/18. 星影宇宙之介～老了啊，后悔啊，报应啊.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/19. 头脑简单的人们.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/20. 追忆～工作室里的光与影.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/21. 大江户战士：大将军.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/23. 调查～核心 2001.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/25. 胜诉！～首场大胜.flac
+2026-10-06T12:57:05 update: added 逆转裁判系列/逆转裁判-原声音乐/27. 逆转姐妹的歌谣.flac
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/02. Yesterday.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/05. Home.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/10. The Rain Song.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/11. [Cue] Mud Dash.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/12. [Cue] Mud Dash (Piano).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/13. [Cue] Bird Motif.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/14. My Home.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/15. Light as a Feather.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/16. Hide & Seek.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/17. Floating By.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/18. Fleeting Glimpse.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/19. Hereupon.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/20. Today.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/21. home 2 cue.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/22. Paper Plane.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/23. On the Balcony.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/24. Raggedy Sax.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/25. Unhealed Wing.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/26. Heavy Rain Walk.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/27. Up Ahead.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/28. Thunder Chase.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/29. Tempest.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/04. Another Stroll.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/30. The Fall.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/31. Balcony Days.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/32. last balcony pt 1 (refined).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/33. last balcony pt 2 (refined).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/34. Bird Motif - 2.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/35. Tomorrow (Credit).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/36. Finding Paradise (Preview).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/37. At the Gates (Holiday Special).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/38. Bestest Detectives in the World - Winter Vers. (Holiday Special).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/39. To the Moon - For River - Minigame Vers. (Holiday Special).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/06. bef fall music.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/40. A Bird Story (Piano).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/07. after fall music.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/08. Bright & Early.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/09. [Cue] Muffins.mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/01. A Bird Story (Title Theme).mp3
+2026-10-06T12:57:05 update: added 去月球系列/A Bird Story OST/03. Yesterday (Reversing).mp3
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/01 Finding Paradise - Trailer Theme.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/02 Finding Paradise - Title Theme (Short Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/03 A Different Kind of Work.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/04 Serenity.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/05 Neil's Machine (Vibraphone).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/06 Bestest Detectives in the World (Outdoor).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/07 Bestest Detectives in the World (Indoor).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/08 A Different Kind of Work (Celesta).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/09 Neil's Machine.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/10 Veil of Perception.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/11 Having Lived (Finding Paradise Version).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/12 Where Are You.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/13 Paper Plane (from A Bird Story).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/14 Time is a Place (Celesta Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/15 Where Are You (Duet Version).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/16 Home (from A Bird Story).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/17 Across the Balcony (Celesta).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/18 Time is a Place (Guitar).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/19 Across the Balcony.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/20 Such Inspire Much Motivate.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/21 The Right Amount of Dumb.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/22 Time is a Place (Piano).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/23 Kinda Like an Indie French Film.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/24 The Scale Theme (Piano & Cello Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/25 Wind from Our Younger Days.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/26 The Scale Theme (Guitar & Cello Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/27 The Scale Theme.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/28 Paradise (Guitar Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/29 Hospital Rush.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/30 A Moment to Sink In.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/31 Time is a Place.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/32 From the Balcony (Finding Paradise Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/33 The Right Amount of Dumb (Vers. 2).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/34 Think Quietly.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/35 Time is a Place (Rehearsal Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/36 Floating By (from A Bird Story).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/37 Paradise (Tropical Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/38 Days Go By.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/39 What You're Up To.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/40 The Mirror Lied (from The Mirror Lied).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/41 Single-Thread Firewall.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/42 Something Amiss.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/43 HNNNNNNGH.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/44 Power Overwhelming.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/45 On the Run.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/46 Final Confrontation.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/47 Breeze (from Quintessence - TBV).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/48 The Scale Theme (Cello & Guitar Vers. 2).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/49 Faye's Theme.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/50 Time is a Place (Void Vers.) -Unused-.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/51 In the Way.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/52 The Fiction We Tell Ourselves.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/53 Bestest Detectives (Reprise).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/54 Wish My Life Away (by Laura Shigihara).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/55 Faye's Theme (Piano Vers.).flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/56 Going Home.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/57 Ending Theme.flac
+2026-10-06T12:57:05 update: added 去月球系列/Finding Paradise OST/58 Every Single Memory (by RIOTxRYKER).flac
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/01. Trailer Theme - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/02. Impostor Factory - Title Theme - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/03. A Shroud of Rain - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/04. Make Yourself at Manor - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/05. The Observer - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/06. Fuzzy Tumbles - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/07. First Murder - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/08. The Guests - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/09. Twice a Stranger - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/10. Something Amiss [from To the Moon] - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/11. The Guests (Decayed Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/12. Tangents of Peculiarity - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/13. To Chase a Murderer - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/14. Cat Scary - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/15. The Guests (Decayed Version 2) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/16. Vinyl Record - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/17. The Asylum - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/18. Twenty-Six Past Three - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/19. Twenty-Six Past Three (Void Version) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/20. Earth or Sky (Day Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/21. Left to Chance - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/22. Somber Steps - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/23. Earth or Sky (Night Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/24. Another Morning - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/25. Quincy - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/26. Library Days - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/27. Finding the Notes - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/28. See the World (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/29. The Earth to Your Sky - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/30. Serenity [from To the Moon] - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/31. Double O Six Point Five - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/32. Basement Tour - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/33. The Machine - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/34. Days - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/35. Back Home - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/36. See the World   - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/37. Airsick - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/38. Predisposition (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/39. A Decision For Two - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/40. Heartbeat (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/41. Heartbeat (Music Box Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/42. Predisposition  - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/43. A Decision Of Two - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/44. Waking Up (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/45. Heartbeat - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/46. Just a Lavender - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/47. Path of a Life - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/48. Beginning of an End - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/49. Make Yourself at Manor (Void Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/50. Single-Threaded Firewall [from Finding Paradise] - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/51. The Hypothesis - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/52. The Final Test - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/53. Long Way Up - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/54. A World Beyond - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/55. Waking Up - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/56. The Mirror Lied [from The Mirror Lied] - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/57. All There Is - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/58. One Last Trip - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/59. A Reality Somewhere (Ending Suite) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/60. Lullaby from a Star (Credit Theme feat. Pealeaf) - Kan Gao.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Impostor Factory OST/61. Great Wide Unknown (Bonus Song) - Pealeaf.mp3
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/01. (Trailer Theme) Just a To the Moon Series Beach Episode.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/02. (Title Theme) Just a To the Moon Series Beach Episode.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/03. The Day Off (Bus Map Music).flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/04. For River - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/05. Born a Stranger - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/06. Time is a Place - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/07. Faye's Theme - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/08. Lullaby from a Star - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/09. To Realize (Quintessence) - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/10. Envy (Quintessence) - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/11. Kaire's Theme (Quintessence) - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/12. Arcade - Bestest Hero.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/13. Victory Theme - Eva.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/14. Victory Theme - Neil.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/15. Victory Theme - Roxie.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/16. Victory Theme - Rob.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/17. To the Moon Lofi Medley.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/18. Finding Paradise Lofi Medley.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/19. Impostor Factory Lofi Medley.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/20. Neil and Eva Lofi Medley.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/21. World in a Memory.flac
+2026-10-06T12:57:05 update: added 去月球系列/Just A To the Moon Series Beach OST/22. I Still Remember Everything.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/01 To the Moon - Main Theme.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/02 Between a Squirrel and a Tree.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/03 Spiral of Secrets.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/04 For River - Piano (Sarah & Tommy's Version).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/05 Bestest Detectives in the World.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/06 Too Bad So Sad.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/07 Teddy.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/08 Uncharted Realms.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/09 Having Lived.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/10 Moonwisher.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/11 Born a Stranger.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/12 For River - Piano (Johnny's Version).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/13 Lament of a Stranger.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/14 Everything's Alright (Music Box).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/15 Moongazer.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/16 Anya by the Stars.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/17 Take Me Anywhere.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/18 Warning (AKA best track ever).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/19 Beta-B.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/20 World's Smallest Ferris Wheel.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/21 Once Upon a Memory.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/22 Once Upon a Memory (Piano).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/23 Everything's Alright.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/24 Everything's Alright (Reprise).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/25 Tomorrow.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/26 Launch.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/27 To the Moon  - Piano (Ending Version).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/28 Eva's Ringtone.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/29 Trailer Theme - Part 1.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/30 Trailer Theme - Part 2 (feat. Laura Shigihara).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/31 Trailer Theme - Part 2 (Instrumental).flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/32 For River - Holiday Edition.flac
+2026-10-06T12:57:05 update: added 去月球系列/To the Moon OST/33. Everything's Alright (Bonus Version).flac
+2026-10-06T12:57:05 update: removing Impostor Factory OST/57. All There Is - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/56. The Mirror Lied [from The Mirror Lied] - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/55. Waking Up - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/54. A World Beyond - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/53. Long Way Up - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/52. The Final Test - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/51. The Hypothesis - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/50. Single-Threaded Firewall [from Finding Paradise] - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/49. Make Yourself at Manor (Void Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/48. Beginning of an End - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/47. Path of a Life - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/46. Just a Lavender - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/45. Heartbeat - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/44. Waking Up (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/43. A Decision Of Two - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/42. Predisposition  - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/41. Heartbeat (Music Box Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/40. Heartbeat (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/39. A Decision For Two - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/38. Predisposition (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/37. Airsick - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/36. See the World   - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/35. Back Home - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/34. Days - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/33. The Machine - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/32. Basement Tour - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/31. Double O Six Point Five - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/30. Serenity [from To the Moon] - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/29. The Earth to Your Sky - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/28. See the World (Piano Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/27. Finding the Notes - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/26. Library Days - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/25. Quincy - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/24. Another Morning - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/23. Earth or Sky (Night Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/22. Somber Steps - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/21. Left to Chance - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/20. Earth or Sky (Day Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/19. Twenty-Six Past Three (Void Version) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/18. Twenty-Six Past Three - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/17. The Asylum - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/16. Vinyl Record - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/15. The Guests (Decayed Version 2) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/14. Cat Scary - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/13. To Chase a Murderer - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/12. Tangents of Peculiarity - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/11. The Guests (Decayed Vers.) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/10. Something Amiss [from To the Moon] - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/09. Twice a Stranger - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/08. The Guests - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/07. First Murder - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/06. Fuzzy Tumbles - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/05. The Observer - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/04. Make Yourself at Manor - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/03. A Shroud of Rain - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/02. Impostor Factory - Title Theme - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/01. Trailer Theme - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Finding Paradise OST/58 Every Single Memory (by RIOTxRYKER).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/57 Ending Theme.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/56 Going Home.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/55 Faye's Theme (Piano Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/54 Wish My Life Away (by Laura Shigihara).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/53 Bestest Detectives (Reprise).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/52 The Fiction We Tell Ourselves.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/51 In the Way.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/50 Time is a Place (Void Vers.) -Unused-.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/49 Faye's Theme.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/48 The Scale Theme (Cello & Guitar Vers. 2).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/47 Breeze (from Quintessence - TBV).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/46 Final Confrontation.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/45 On the Run.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/44 Power Overwhelming.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/43 HNNNNNNGH.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/42 Something Amiss.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/41 Single-Thread Firewall.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/40 The Mirror Lied (from The Mirror Lied).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/39 What You're Up To.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/38 Days Go By.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/37 Paradise (Tropical Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/36 Floating By (from A Bird Story).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/35 Time is a Place (Rehearsal Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/34 Think Quietly.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/33 The Right Amount of Dumb (Vers. 2).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/32 From the Balcony (Finding Paradise Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/31 Time is a Place.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/30 A Moment to Sink In.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/29 Hospital Rush.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/28 Paradise (Guitar Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/27 The Scale Theme.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/26 The Scale Theme (Guitar & Cello Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/25 Wind from Our Younger Days.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/24 The Scale Theme (Piano & Cello Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/23 Kinda Like an Indie French Film.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/22 Time is a Place (Piano).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/21 The Right Amount of Dumb.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/20 Such Inspire Much Motivate.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/19 Across the Balcony.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/18 Time is a Place (Guitar).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/17 Across the Balcony (Celesta).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/16 Home (from A Bird Story).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/15 Where Are You (Duet Version).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/14 Time is a Place (Celesta Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/13 Paper Plane (from A Bird Story).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/12 Where Are You.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/11 Having Lived (Finding Paradise Version).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/10 Veil of Perception.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/09 Neil's Machine.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/08 A Different Kind of Work (Celesta).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/07 Bestest Detectives in the World (Indoor).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/06 Bestest Detectives in the World (Outdoor).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/05 Neil's Machine (Vibraphone).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/04 Serenity.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/03 A Different Kind of Work.flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/02 Finding Paradise - Title Theme (Short Vers.).flac
+2026-10-06T12:57:05 update: removing Finding Paradise OST/01 Finding Paradise - Trailer Theme.flac
+2026-10-06T12:57:05 update: removing A Bird Story OST/40. A Bird Story (Piano).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/39. To the Moon - For River - Minigame Vers. (Holiday Special).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/38. Bestest Detectives in the World - Winter Vers. (Holiday Special).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/37. At the Gates (Holiday Special).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/36. Finding Paradise (Preview).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/35. Tomorrow (Credit).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/34. Bird Motif - 2.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/33. last balcony pt 2 (refined).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/32. last balcony pt 1 (refined).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/31. Balcony Days.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/30. The Fall.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/29. Tempest.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/28. Thunder Chase.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/27. Up Ahead.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/26. Heavy Rain Walk.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/25. Unhealed Wing.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/24. Raggedy Sax.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/23. On the Balcony.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/22. Paper Plane.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/21. home 2 cue.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/20. Today.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/19. Hereupon.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/18. Fleeting Glimpse.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/17. Floating By.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/16. Hide & Seek.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/15. Light as a Feather.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/14. My Home.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/13. [Cue] Bird Motif.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/12. [Cue] Mud Dash (Piano).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/11. [Cue] Mud Dash.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/10. The Rain Song.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/09. [Cue] Muffins.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/08. Bright & Early.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/07. after fall music.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/06. bef fall music.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/05. Home.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/04. Another Stroll.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/03. Yesterday (Reversing).mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/02. Yesterday.mp3
+2026-10-06T12:57:05 update: removing A Bird Story OST/01. A Bird Story (Title Theme).mp3
+2026-10-06T12:57:05 update: removing 折镜之蝶.wav
+2026-10-06T12:57:05 update: removing To the Moon OST/33. Everything's Alright (Bonus Version).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/32 For River - Holiday Edition.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/31 Trailer Theme - Part 2 (Instrumental).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/30 Trailer Theme - Part 2 (feat. Laura Shigihara).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/29 Trailer Theme - Part 1.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/28 Eva's Ringtone.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/27 To the Moon  - Piano (Ending Version).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/26 Launch.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/25 Tomorrow.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/24 Everything's Alright (Reprise).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/23 Everything's Alright.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/22 Once Upon a Memory (Piano).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/21 Once Upon a Memory.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/20 World's Smallest Ferris Wheel.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/19 Beta-B.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/18 Warning (AKA best track ever).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/17 Take Me Anywhere.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/16 Anya by the Stars.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/15 Moongazer.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/14 Everything's Alright (Music Box).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/13 Lament of a Stranger.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/12 For River - Piano (Johnny's Version).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/11 Born a Stranger.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/10 Moonwisher.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/09 Having Lived.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/08 Uncharted Realms.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/07 Teddy.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/06 Too Bad So Sad.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/05 Bestest Detectives in the World.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/04 For River - Piano (Sarah & Tommy's Version).flac
+2026-10-06T12:57:05 update: removing To the Moon OST/03 Spiral of Secrets.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/02 Between a Squirrel and a Tree.flac
+2026-10-06T12:57:05 update: removing To the Moon OST/01 To the Moon - Main Theme.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/22. I Still Remember Everything.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/21. World in a Memory.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/20. Neil and Eva Lofi Medley.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/19. Impostor Factory Lofi Medley.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/18. Finding Paradise Lofi Medley.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/17. To the Moon Lofi Medley.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/16. Victory Theme - Rob.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/15. Victory Theme - Roxie.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/14. Victory Theme - Neil.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/13. Victory Theme - Eva.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/12. Arcade - Bestest Hero.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/11. Kaire's Theme (Quintessence) - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/10. Envy (Quintessence) - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/09. To Realize (Quintessence) - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/08. Lullaby from a Star - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/07. Faye's Theme - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/06. Time is a Place - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/05. Born a Stranger - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/04. For River - Lobby Piano Version.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/03. The Day Off (Bus Map Music).flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/02. (Title Theme) Just a To the Moon Series Beach Episode.flac
+2026-10-06T12:57:05 update: removing Just A To the Moon Series Beach OST/01. (Trailer Theme) Just a To the Moon Series Beach Episode.flac
+2026-10-06T12:57:05 update: removing Impostor Factory OST/61. Great Wide Unknown (Bonus Song) - Pealeaf.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/60. Lullaby from a Star (Credit Theme feat. Pealeaf) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/59. A Reality Somewhere (Ending Suite) - Kan Gao.mp3
+2026-10-06T12:57:05 update: removing Impostor Factory OST/58. One Last Trip - Kan Gao.mp3
+2026-10-06T13:04:37 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T13:04:39 player: played "逆转裁判系列/逆转裁判-原声音乐/01. 逆转裁判・序章.flac"
+2026-10-06T13:04:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T13:04:40 player: played "逆转裁判系列/逆转裁判-原声音乐/01. 逆转裁判・序章.flac"
+2026-10-06T13:05:21 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T13:06:00 player: played "逆转裁判系列/逆转裁判-原声音乐/01. 逆转裁判・序章.flac"
+2026-10-06T13:07:19 player: played "逆转裁判系列/逆转裁判-原声音乐/02. 被告休息室～开始的序曲.flac"
+2026-10-06T13:09:08 player: played "逆转裁判系列/逆转裁判-原声音乐/03. 逆转裁判·开庭.flac"
+2026-10-06T13:10:52 player: played "逆转裁判系列/逆转裁判-原声音乐/04. 讯问～中板 2001.flac"
+2026-10-06T13:12:20 player: played "逆转裁判系列/逆转裁判-原声音乐/05. 逻辑与推理.flac"
+2026-10-06T13:13:18 player: played "逆转裁判系列/逆转裁判-原声音乐/06. 成步堂龙一～异议！ 2001.flac"
+2026-10-06T18:27:06 mixer: Failed to read mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/01. 逆転裁判・序章.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/02. 法廷休憩室 ～始まりの序曲.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/03. 逆転裁判・開廷.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/04. 尋問 ～モデラート 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/05. ロジックとトリック.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/06. 成歩堂龍一　～異議あり！ 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/07. 尋問　～アレグロ 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/08. 追求　～追いつめられて.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/09. 真実は告げる 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/10. サスペンス.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/11. 追求　～追いつめられて／バリエーション.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/12. ジングル　～こんなところで終われない.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/13. 捜査　～序盤 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/14. 綾里真宵　～逆転姉妹のテーマ 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/15. 留置所　～看守たちのエレジー.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/16. 糸鋸圭介　～イトノコ刑事ッス.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/17. 追憶　～傷心の真宵.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/18. 星影宇宙ノ介　～老い、悔い、報い.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/19. おめでたい人びと.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/20. 追憶　～撮影所の光と影.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/21. 大江戸戦士トノサマン.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/22. 追憶　～DL6号事件.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/23. 捜査　～核心 2001.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/24. 追憶　～学級裁判.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/25. 勝訴！ ～初めての勝利.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/26. 逆転裁判・終幕.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/27. 逆転姉妹のバラード.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/28. 蘇る逆転・序章.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/29. 追憶　～SL9号事件.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/30. 宝月茜　～逆転姉妹のテーマ2005.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/31. タイホくん　～守ってあげたい.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/32. 罪門恭介　～荒野のならず刑事（デカ）.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/33. 巌徒海慈　～みんな、泳いでる？.flac
+2026-10-06T18:27:10 update: added 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/34. 蘇る逆転・終幕.flac
+2026-10-06T18:27:25 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T18:28:05 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/01. 逆転裁判・序章.flac"
+2026-10-06T18:29:22 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/02. 法廷休憩室 ～始まりの序曲.flac"
+2026-10-06T18:31:11 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/03. 逆転裁判・開廷.flac"
+2026-10-06T18:32:56 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/04. 尋問 ～モデラート 2001.flac"
+2026-10-06T18:35:28 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/05. ロジックとトリック.flac"
+2026-10-06T18:36:42 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/06. 成歩堂龍一\u3000～異議あり！ 2001.flac"
+2026-10-06T18:38:48 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/07. 尋問\u3000～アレグロ 2001.flac"
+2026-10-06T18:40:25 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/08. 追求\u3000～追いつめられて.flac"
+2026-10-06T18:41:44 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/09. 真実は告げる 2001.flac"
+2026-10-06T18:43:17 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/10. サスペンス.flac"
+2026-10-06T18:44:47 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/11. 追求\u3000～追いつめられて／バリエーション.flac"
+2026-10-06T18:44:52 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/12. ジングル\u3000～こんなところで終われない.flac"
+2026-10-06T18:46:42 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/13. 捜査\u3000～序盤 2001.flac"
+2026-10-06T18:49:24 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/14. 綾里真宵\u3000～逆転姉妹のテーマ 2001.flac"
+2026-10-06T18:51:13 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/15. 留置所\u3000～看守たちのエレジー.flac"
+2026-10-06T18:51:54 player: played "逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/16. 糸鋸圭介\u3000～イトノコ刑事ッス.flac"
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/01 - Phoenix Wright -  Ace Attorney - Opening.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/02 - Defendant Lobby - So it Begins.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/03 - Phoenix Wright -  Ace Attorney - Court is Now in Session.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/04 - Cross-Examination - Moderato 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/05 - Tricks and Deductions.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/06 - Phoenix Wright - Objection! 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/07 - Cross-Examination - Allegro 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/08 - Pursuit - Corner the Culprit.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/09 - The Truth Revealed 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/10 - Suspense.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/11 - Pursuit - Corner the Culprit (Variation).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/12 - Jingle - There's No Stopping Here.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/13 - Initial Investigation 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/14 - Maya Fey - Turnabout Sisters 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/15 - Detention Center - The Security Guards' Elegy.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/16 - Dick Gumshoe - That's “Detective Gumshoe,“ Pal!.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/17 - Reminiscences - Maya's Sorrow.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/18 - Marvin Grossberg - Reckonings and Regrets of an Aged Attorney.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/19 - Simple Folk.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/20 - Reminiscences - The Two Faces of a Studio.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/21 - The Steel Samurai -  Warrior of Neo Olde Tokyo.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/22 - Reminiscences - The DL-6 Incident.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/23 - Heart of the Investigation 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/24 - Reminiscences - The Class Trial.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/25 - Victory! - Our First Win.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/26 - Phoenix Wright -  Ace Attorney - Ending.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/27 - The Ballad of Turnabout Sisters.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/28 - Rise from the Ashes - Opening.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/29 - Reminiscences - The SL-9 Incident.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/30 - Ema Skye - Turnabout Sisters 2005.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/31 - The Blue Badger - I Want to Protect You.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/32 - Jake Marshall - Renegade Sheriff.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/33 - Damon Gant - Swimming, Anyone？.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判1/34 - Rise from the Ashes - Ending.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/01 - Justice for All - Opening (Toccata and Fugue in D minor, BWV 565 by J. S. Bach).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/02 - Ringtone (Richard Wellington).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/03 - Defendant Lobby - So it Begins Again.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/04 - Justice for All - Court is Now in Session.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/05 - Cross-Examination - Moderato 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/06 - Magic and Tricks.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/07 - Phoenix Wright - Objection! 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/08 - Cross-Examination - Allegro 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/09 - Pursuit - Confront the Culprit.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/10 - The Truth Revealed 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/11 - Ringtone (Phoenix Wright).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/12 - Pursuit - Confront the Culprit (Variation).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/13 - Jingle - There's No Sleeping Tonight.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/14 - Psyche-Locks.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/15 - Initial Investigation 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/16 - Maya Fey - Turnabout Sisters 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/17 - Detention Center - The Security Camera's Elegy.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/18 - Kurain Village.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/19 - Reminiscences - Fire-Licked Scars.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/20 - Eccentrics.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/21 - Fabulous!.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/22 - Berry Big Circus.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/23 - More Simple Folk.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/24 - Reminiscences - Pure Pain.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/25 - Shelly de Killer - A Deadly Gentleman's Delight.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/26 - Pearl Fey - With Pearly.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/27 - Further Investigation 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/28 - Triumphant Return - Miles Edgeworth.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/29 - Hotline of Fate.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/30 - Heart of the Investigation 2002.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/31 - Reminiscences - Ballad of The Steel Samurai.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/32 - Triumphant Return - Franziska von Karma.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/33 - Victory! - Another Win.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/34 - Justice for All - Ending.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判2/35 - One Prosecutor's Musings - Until We Meet Again.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/01 - Trials and Tribulations - Opening.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/02 - Defendant Lobby - So it Will Always Begin.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/03 - Trials and Tribulations - Court is Now in Session.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/04 - Cross-Examination - Moderato 2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/05 - Phoenix Wright - Objection! 2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/06 - Cross-Examination - Allegro 2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/07 - Pursuit - Catch the Culprit.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/08 - The Truth Revealed 2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/09 - Pursuit - Catch the Culprit (Variation).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/10 - Dahlia Hawthorne - The Visage of What Once Was.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/11 - Godot - The Fragrance of Darkness; That is Coffee.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/12 - Jingle - There's No Going Back.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/13 - Initial Investigation 2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/14 - “The Stolen Turnabout“.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/15 - Lordly Tailor.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/16 - Detention Center - The Prisoner's Elegy.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/17 - Mask☆DeMasque - Please Listen to Meeeee!.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/18 - Luke Atmey - Look at Me.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/19 - Larry Butz - When Something Smells, It's Usually Me.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/20 - “Recipe for Turnabout“.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/21 - Trés Bien.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/22 - Victor Kudo - Martial Anthem of Misery.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/23 - Furio Tigre - Swingin' Tiger.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/24 - Reminiscences - Violetta Vitriol.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/25 - “Turnabout Beginnings“.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/26 - Reminiscences - The View from Dusky Bridge.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/27 - Hazakura Temple.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/28 - Elise Deauxnim - A Gentle Melody.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/29 - Further Investigation 2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/30 - Reminiscences - The Bitterness of Truth.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/31 - Pursuit - Corner the Culprit  2004.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/32 - Victory! - An Eternal Win.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/33 - Trials and Tribulations - Ending.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/逆转裁判3/34 - Ringtone (Godot).flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/01 - Phoenix Wright - Objection! 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/02 - Maya Fey - Turnabout Sisters 2001.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/03 - Dick Gumshoe - That's ''Detective Gumshoe,'' Pal!.flac
+2026-10-06T18:53:17 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/04 - Ema Skye - Turnabout Sisters 2005.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/05 - Pursuit - Corner the Culprit.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/06 - The Blue Badger - I Want to Protect You.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/07 - Victory! - Our First Win.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/08 - Pearl Fey - With Pearly.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/09 - Triumphant Return - Miles Edgeworth.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/10 - Victory! - Another Win.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/11 - Larry Butz - When Something Smells, It's Usually Me.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/12 - Pursuit - Catch the Culprit.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/13 - Victory! - An Eternal Win.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/14 - Trials and Tribulations - Ending.flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/15 - The Steel Samurai - Warrior of Neo Olde Tokyo (Orchestral).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/16 - Those of Fey Blood (Orchestral).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/17 - Phoenix Wright - Ace Attorney - Courtroom Suite (Orchestral).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/18 - Berry Big Circus (Piano).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/19 - Maya Fey - Turnabout Sisters 2001 (Piano).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/20 - Trials and Tribulations - Court Begins on a Blue Note Scale (Jazz).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/21 - Godot - The Fragrance of Darkness; That is Coffee (Jazz).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/22 - Rise from the Ashes - Ending (Jazz).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/23 - Turnabout Sisters - Seaside Swing (Vocal).flac
+2026-10-06T18:53:18 update: added 逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/24 - Eternal Victory - Endings and Beginnings (Vocal).flac
+2026-10-06T18:53:41 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T18:54:23 player: played "逆转裁判系列/逆转裁判1/01 - Phoenix Wright -  Ace Attorney - Opening.flac"
+2026-10-06T18:55:42 player: played "逆转裁判系列/逆转裁判1/02 - Defendant Lobby - So it Begins.flac"
+2026-10-06T18:57:32 player: played "逆转裁判系列/逆转裁判1/03 - Phoenix Wright -  Ace Attorney - Court is Now in Session.flac"
+2026-10-06T18:59:18 player: played "逆转裁判系列/逆转裁判1/04 - Cross-Examination - Moderato 2001.flac"
+2026-10-06T19:01:52 player: played "逆转裁判系列/逆转裁判1/05 - Tricks and Deductions.flac"
+2026-10-06T19:03:06 player: played "逆转裁判系列/逆转裁判1/06 - Phoenix Wright - Objection! 2001.flac"
+2026-10-06T19:05:15 player: played "逆转裁判系列/逆转裁判1/07 - Cross-Examination - Allegro 2001.flac"
+2026-10-06T19:06:53 player: played "逆转裁判系列/逆转裁判1/08 - Pursuit - Corner the Culprit.flac"
+2026-10-06T19:08:14 player: played "逆转裁判系列/逆转裁判1/09 - The Truth Revealed 2001.flac"
+2026-10-06T19:09:48 player: played "逆转裁判系列/逆转裁判1/10 - Suspense.flac"
+2026-10-06T19:11:20 player: played "逆转裁判系列/逆转裁判1/11 - Pursuit - Corner the Culprit (Variation).flac"
+2026-10-06T19:11:29 player: played "逆转裁判系列/逆转裁判1/12 - Jingle - There's No Stopping Here.flac"
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338898.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338899.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338900.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338901.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338902.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338903.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338904.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338905.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338906.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338907.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338908.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338909.flac
+2026-10-06T19:11:38 update: added 逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338910.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/10. 逆转裁判3～特别混合.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/09. 逆转裁判～2003宣传影像音轨.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/08. 精神枷锁整理版本.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/07. 绫里真宵～逆转姐妹的主题⁄编曲版本.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/06. 效果音·机械篇.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/05. 效果音·动物篇.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/04. 效果音·音效与角色篇.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/03. 效果音·心理描写篇.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/02. 效果音·法庭篇.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-附赠音乐/01. 效果音·系统篇.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/27. 逆转姐妹的歌谣.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/26. 逆转裁判・终幕.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/25. 胜诉！～首场大胜.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/24. 追忆～学级裁判.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/23. 调查～核心 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/22. 追忆～DL6号事件.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/21. 大江户战士：大将军.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/20. 追忆～工作室里的光与影.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/19. 头脑简单的人们.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/18. 星影宇宙之介～老了啊，后悔啊，报应啊.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/17. 追忆～伤心的真宵.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/16. 糸锯圭介～糸锯圭介在此的说.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/15. 看守所～看守的挽歌.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/14. 绫里真宵～逆转姐妹 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/13. 调查～序盘 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/12. 叮叮～还没结束呢.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/11. 追求～无路可退 变奏.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/10. 悬疑.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/09. 真相的诉说 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/08. 追求～无路可退.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/07. 审问～快板 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/06. 成步堂龙一～异议！ 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/05. 逻辑与推理.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/04. 讯问～中板 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/03. 逆转裁判·开庭.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/02. 被告休息室～开始的序曲.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/逆转裁判-原声音乐/01. 逆转裁判・序章.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/34. 蘇る逆転・終幕.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/33. 巌徒海慈　～みんな、泳いでる？.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/32. 罪門恭介　～荒野のならず刑事（デカ）.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/31. タイホくん　～守ってあげたい.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/30. 宝月茜　～逆転姉妹のテーマ2005.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/29. 追憶　～SL9号事件.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/28. 蘇る逆転・序章.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/27. 逆転姉妹のバラード.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/26. 逆転裁判・終幕.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/25. 勝訴！ ～初めての勝利.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/24. 追憶　～学級裁判.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/23. 捜査　～核心 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/22. 追憶　～DL6号事件.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/21. 大江戸戦士トノサマン.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/20. 追憶　～撮影所の光と影.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/19. おめでたい人びと.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/18. 星影宇宙ノ介　～老い、悔い、報い.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/17. 追憶　～傷心の真宵.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/16. 糸鋸圭介　～イトノコ刑事ッス.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/15. 留置所　～看守たちのエレジー.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/14. 綾里真宵　～逆転姉妹のテーマ 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/13. 捜査　～序盤 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/12. ジングル　～こんなところで終われない.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/11. 追求　～追いつめられて／バリエーション.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/10. サスペンス.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/09. 真実は告げる 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/08. 追求　～追いつめられて.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/07. 尋問　～アレグロ 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/06. 成歩堂龍一　～異議あり！ 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/05. ロジックとトリック.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/04. 尋問 ～モデラート 2001.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/03. 逆転裁判・開廷.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/02. 法廷休憩室 ～始まりの序曲.flac
+2026-10-06T19:11:44 update: removing 逆转裁判系列/复苏的逆转 原声音乐 (FLAC)/01. 逆転裁判・序章.flac
+2026-10-06T19:11:53 player: played "逆转裁判系列/逆转裁判1/13 - Initial Investigation 2001.flac"
+2026-10-06T19:11:53 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T19:11:53 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2026-10-06T19:12:17 player: played "逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338898.flac"
+2026-10-06T19:12:17 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T19:12:17 alsa_output: Decoder is too slow; playing silence to avoid xrun
+2026-10-06T19:13:20 player: played "逆转裁判系列/逆転裁判15周年記念 オーケストラコンサート/0010338905.flac"
+2026-10-06T19:13:20 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T19:13:32 player: played "逆转裁判系列/Phoenix Wright - Ace Attorney Trilogy - Turnabout Tunes [FLAC]/01 - Phoenix Wright - Objection! 2001.flac"
+2026-10-06T19:13:32 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T19:13:36 player: played "逆转裁判系列/逆转裁判1/05 - Tricks and Deductions.flac"
+2026-10-06T19:13:36 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T19:13:38 player: played "逆转裁判系列/逆转裁判1/08 - Pursuit - Corner the Culprit.flac"
+2026-10-06T19:13:38 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/1-54 - Confrontation - Allegro 2009 (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/1-55 - Confrontation - Presto 2009 (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/1-56 - Miles Edgeworth - Objection! 2009 (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/1-57 - Pursuit - Chase Down the Truth (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/1-58 - Pursuit - Chase Down the Truth (No Intro) (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/2-54 - Confrontation - Allegro 2011 (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/2-55 - Confrontation - Presto 2011 (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/2-56 - Miles Edgeworth - Objection! 2011 (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/2-57 - Pursuit - Uncover the Truth (Arranged).flac
+2026-10-06T19:14:33 update: added 逆转裁判系列/御剑精选集/2-58 - Pursuit - Uncover the Truth (No Intro) (Arranged).flac
+2026-10-06T19:14:59 player: played "逆转裁判系列/逆转裁判1/09 - The Truth Revealed 2001.flac"
+2026-10-06T19:16:33 player: played "逆转裁判系列/逆转裁判1/10 - Suspense.flac"
+2026-10-06T19:18:05 player: played "逆转裁判系列/逆转裁判1/11 - Pursuit - Corner the Culprit (Variation).flac"
+2026-10-06T19:18:13 player: played "逆转裁判系列/逆转裁判1/12 - Jingle - There's No Stopping Here.flac"
+2026-10-06T19:20:05 player: played "逆转裁判系列/逆转裁判1/13 - Initial Investigation 2001.flac"
+2026-10-06T19:22:47 player: played "逆转裁判系列/逆转裁判1/14 - Maya Fey - Turnabout Sisters 2001.flac"
+2026-10-06T19:24:38 player: played "逆转裁判系列/逆转裁判1/15 - Detention Center - The Security Guards' Elegy.flac"
+2026-10-06T19:26:40 player: played "逆转裁判系列/逆转裁判1/16 - Dick Gumshoe - That's “Detective Gumshoe,“ Pal!.flac"
+2026-10-06T19:29:16 player: played "逆转裁判系列/逆转裁判1/17 - Reminiscences - Maya's Sorrow.flac"
+2026-10-06T19:30:55 player: played "逆转裁判系列/逆转裁判1/18 - Marvin Grossberg - Reckonings and Regrets of an Aged Attorney.flac"
+2026-10-06T19:32:05 player: played "逆转裁判系列/逆转裁判1/19 - Simple Folk.flac"
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/01 - 成歩堂龍ノ介 ～冒險の序曲.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/02 - 『大いなる始まりの冒險』.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/03 - ジングル -開幕.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/04 - 大法廷控室.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/05 - 追憶 ～龍ノ介の記憶.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/06 - 大逆転裁判 ～開廷.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/07 - 証人たちは入廷する.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/08 - 大尋問 ～モデラート.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/09 - 亜双義一真 ～使命のサムライ.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/10 - 大迷走 ～サスペンス・その1.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/11 - 論理と奸計(ロジックとトリック).flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/12 - 大尋問 ～アレグロ.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/13 - 成歩堂龍ノ介 ～異議あり!.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/14 - 大迷走 ～サスペンス・その2.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/15 - 真実は告げる【冒險編】.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/16 - 予兆.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/17 - 審理は紛糾する.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/18 - 追憶 ～罪をニクんで人をニクまず.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/19 - エレガント ～そしてエクセレント.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/20 - 御琴羽寿沙都 ～新世界に咲く花.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/21 - 『友とまだらの紐の冒險』.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/22 - 核心.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/23 - 蒸気船アラクレイ号.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/24 - 露西亜をわたる風.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/25 - 調査.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/26 - 共同推理(TYPE A).flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/27 - 共同推理・舞台裏(TYPE A).flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/28 - 共同推理(TYPE B).flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/29 - 推理大戦・序.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/30 - 推理大戦・破.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/31 - 追憶 ～消えた妖精.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/32 - 亜双義一真 ～夜想曲.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/33 - 『疾走する密室の冒險』.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/34 - ジングル -幕間.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/01 - 序章(プロローグ)～物語の伴奏曲.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/02 - シャーロック・ホームズ ～霧の街の大探偵.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/03 - 推理の主題曲 ～論理の向こう側.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/04 - 共同推理・舞台裏(TYPE C).flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/05 - 共同推理(TYPE C).flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/06 - ジングル -推理完了.flac
+2026-10-06T19:33:13 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/07 - ヴォルテックス首席判事 ～時を刻む司法.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/08 - 霧の住人 ～あやしい人々.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/09 - バロック・バンジークス ～大法廷の死神.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/10 - 最終弁論.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/11 - ジーナ・レストレード ～下町の鉄砲玉.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/12 - 『大炎上』.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/13 - ロンドン.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/14 - トバイアス・グレグソン ～大探偵の強敵たち.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/15 - 留置所 ～薄闇の狂詩曲.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/16 - 夏目漱石 ～吾輩は無実である.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/17 - 大帝都市民の日常.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/18 - 『到着』.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/19 - ベーカー街221B.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/20 - アイリス・ワトソン ～小さな伝記作家.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/21 - 笑劇(ファース) ～にぎやかな人々.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/22 - 大探偵の憂鬱.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/23 - 自鳴琴 ～はじめての音色.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/24 - 自鳴琴 ～霧の街の大探偵.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/25 - 『最後の悲劇』.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/26 - 大逆転裁判・評決.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/27 - 追求 ～大逆転のとき.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/28 - 追憶 ～灰色の舞踊.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/29 - 勝訴 ～友に捧げる大逆転.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/30 - 御琴羽寿沙都 ～小夜曲.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/31 - 『語られない物語の夜明け』.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/32 - 終幕組曲【冒險の終わり】.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/33 - 終幕組曲【大逆転は終わらない】.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/01 - 成歩堂龍ノ介 ～覺悟の序曲.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/02 - 大逆転は終わらない(自鳴琴・抄).flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/03 - ジングル -開幕【覺悟編】.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/04 - 弁護少女の序曲.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/05 - 成歩堂龍太郎 ～異議あり!.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/06 - 豆籾平太 ～ブンヤ一匹、豆籾主義.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/07 - ウイリアム・ペテンシー ～裏街の沙翁.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/08 - 追憶 ～殺意の交差点.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/09 - 倫敦万国博覧会.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/10 - ドビンボー博士 ～科学の子.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/11 - 蝋人形の館.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/12 - マダム・ローザイク ～謎は蝋にからめて.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/13 - 追憶 ～砕け散った数式.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/14 - ドクター・シス ～孤高の監察医.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/15 - イーノック・ドレッバー ～科学と魔術の輪舞.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/16 - 暗闇の殺意.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/17 - 《プロフェッサー》 ～蘇る亡霊.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/18 - 大いなる帰還.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/19 - 復活の検事.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/20 - バスカビルの伝説.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/21 - 牢獄の番人たち.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/22 - 虚無は巡る.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/23 - 追憶 ～絆をたどる旅.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/24 - 大探偵の友情.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/25 - 独逸歌曲『怒りの独唱』.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/26 - ジングル -幕間【覺悟編】.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/01 - 大法廷控室(変奏曲).flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/02 - 大・極秘裁判 ～開廷.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/03 - 追憶のバロック・バンジークス.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/04 - 推理大戦・舞台裏(相棒編).flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/05 - 相棒 ～The game is afoot!.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/06 - 追憶 ～野望の果てに.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/07 - 追求への前奏曲.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/08 - 大追求 ～成歩堂龍ノ介の覺悟.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/09 - 真実への大扉.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/10 - 勝訴 ～最後の大勝利.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/11 - 大逆転は終わらない(自鳴琴).flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/12 - それぞれの道.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/13 - 別れの挨拶 ～His last bow.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/14 - 終幕組曲【忘れじの旋律】.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/15 - 大終章 ～Epilogue.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/16 - 開幕【覺悟編】・試作.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/17 - 倫敦万国博覧会・試作.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/18 - ドビンボー博士・試作.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/19 - マダム・ローザイク・試作.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/20 - 『怒りの独唱』・試作.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/21 - 大・極秘裁判・試作1.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/22 - 大・極秘裁判・試作2.flac
+2026-10-06T19:33:14 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/23 - 相棒のテーマ・初期版 .flac
+2026-10-06T19:33:27 player: played "逆转裁判系列/逆转裁判1/20 - Reminiscences - The Two Faces of a Studio.flac"
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/01 - 成歩堂龍ノ介 ～冒險の序曲.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/02 - 『大いなる始まりの冒險』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/03 - ジングル -開幕.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/04 - 大法廷控室.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/05 - 追憶 ～龍ノ介の記憶.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/06 - 大逆転裁判 ～開廷.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/07 - 証人たちは入廷する.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/08 - 大尋問 ～モデラート.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/09 - 亜双義一真 ～使命のサムライ.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/10 - 大迷走 ～サスペンス・その1.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/11 - 論理と奸計(ロジックとトリック).flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/12 - 大尋問 ～アレグロ.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/13 - 成歩堂龍ノ介 ～異議あり!.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/14 - 大迷走 ～サスペンス・その2.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/15 - 真実は告げる【冒險編】.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/16 - 予兆.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/17 - 審理は紛糾する.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/18 - 追憶 ～罪をニクんで人をニクまず.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/19 - エレガント ～そしてエクセレント.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/20 - 御琴羽寿沙都 ～新世界に咲く花.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/21 - 『友とまだらの紐の冒險』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/22 - 核心.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/23 - 蒸気船アラクレイ号.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/24 - 露西亜をわたる風.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/25 - 調査.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/26 - 共同推理(TYPE A).flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/27 - 共同推理・舞台裏(TYPE A).flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/28 - 共同推理(TYPE B).flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/29 - 推理大戦・序.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/30 - 推理大戦・破.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/31 - 追憶 ～消えた妖精.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/32 - 亜双義一真 ～夜想曲.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/33 - 『疾走する密室の冒險』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC1/34 - ジングル -幕間.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/01 - 序章(プロローグ)～物語の伴奏曲.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/02 - シャーロック・ホームズ ～霧の街の大探偵.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/03 - 推理の主題曲 ～論理の向こう側.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/04 - 共同推理・舞台裏(TYPE C).flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/05 - 共同推理(TYPE C).flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/06 - ジングル -推理完了.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/07 - ヴォルテックス首席判事 ～時を刻む司法.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/08 - 霧の住人 ～あやしい人々.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/09 - バロック・バンジークス ～大法廷の死神.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/10 - 最終弁論.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/11 - ジーナ・レストレード ～下町の鉄砲玉.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/12 - 『大炎上』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/13 - ロンドン.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/14 - トバイアス・グレグソン ～大探偵の強敵たち.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/15 - 留置所 ～薄闇の狂詩曲.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/16 - 夏目漱石 ～吾輩は無実である.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/17 - 大帝都市民の日常.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/18 - 『到着』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/19 - ベーカー街221B.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/20 - アイリス・ワトソン ～小さな伝記作家.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/21 - 笑劇(ファース) ～にぎやかな人々.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/22 - 大探偵の憂鬱.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/23 - 自鳴琴 ～はじめての音色.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/24 - 自鳴琴 ～霧の街の大探偵.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/25 - 『最後の悲劇』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/26 - 大逆転裁判・評決.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/27 - 追求 ～大逆転のとき.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/28 - 追憶 ～灰色の舞踊.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/29 - 勝訴 ～友に捧げる大逆転.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/30 - 御琴羽寿沙都 ～小夜曲.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/31 - 『語られない物語の夜明け』.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/32 - 終幕組曲【冒險の終わり】.flac
+2026-10-06T19:34:18 update: added 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險/DISC2/33 - 終幕組曲【大逆転は終わらない】.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/33 - 終幕組曲【大逆転は終わらない】.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/32 - 終幕組曲【冒險の終わり】.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/31 - 『語られない物語の夜明け』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/30 - 御琴羽寿沙都 ～小夜曲.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/29 - 勝訴 ～友に捧げる大逆転.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/28 - 追憶 ～灰色の舞踊.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/27 - 追求 ～大逆転のとき.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/26 - 大逆転裁判・評決.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/25 - 『最後の悲劇』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/24 - 自鳴琴 ～霧の街の大探偵.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/23 - 自鳴琴 ～はじめての音色.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/22 - 大探偵の憂鬱.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/21 - 笑劇(ファース) ～にぎやかな人々.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/20 - アイリス・ワトソン ～小さな伝記作家.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/19 - ベーカー街221B.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/18 - 『到着』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/17 - 大帝都市民の日常.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/16 - 夏目漱石 ～吾輩は無実である.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/15 - 留置所 ～薄闇の狂詩曲.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/14 - トバイアス・グレグソン ～大探偵の強敵たち.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/13 - ロンドン.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/12 - 『大炎上』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/11 - ジーナ・レストレード ～下町の鉄砲玉.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/10 - 最終弁論.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/09 - バロック・バンジークス ～大法廷の死神.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/08 - 霧の住人 ～あやしい人々.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/07 - ヴォルテックス首席判事 ～時を刻む司法.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/06 - ジングル -推理完了.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/05 - 共同推理(TYPE C).flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/04 - 共同推理・舞台裏(TYPE C).flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/03 - 推理の主題曲 ～論理の向こう側.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/02 - シャーロック・ホームズ ～霧の街の大探偵.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC2/01 - 序章(プロローグ)～物語の伴奏曲.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/34 - ジングル -幕間.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/33 - 『疾走する密室の冒險』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/32 - 亜双義一真 ～夜想曲.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/31 - 追憶 ～消えた妖精.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/30 - 推理大戦・破.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/29 - 推理大戦・序.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/28 - 共同推理(TYPE B).flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/27 - 共同推理・舞台裏(TYPE A).flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/26 - 共同推理(TYPE A).flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/25 - 調査.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/24 - 露西亜をわたる風.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/23 - 蒸気船アラクレイ号.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/22 - 核心.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/21 - 『友とまだらの紐の冒險』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/20 - 御琴羽寿沙都 ～新世界に咲く花.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/19 - エレガント ～そしてエクセレント.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/18 - 追憶 ～罪をニクんで人をニクまず.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/17 - 審理は紛糾する.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/16 - 予兆.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/15 - 真実は告げる【冒險編】.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/14 - 大迷走 ～サスペンス・その2.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/13 - 成歩堂龍ノ介 ～異議あり!.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/12 - 大尋問 ～アレグロ.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/11 - 論理と奸計(ロジックとトリック).flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/10 - 大迷走 ～サスペンス・その1.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/09 - 亜双義一真 ～使命のサムライ.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/08 - 大尋問 ～モデラート.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/07 - 証人たちは入廷する.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/06 - 大逆転裁判 ～開廷.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/05 - 追憶 ～龍ノ介の記憶.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/04 - 大法廷控室.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/03 - ジングル -開幕.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/02 - 『大いなる始まりの冒險』.flac
+2026-10-06T19:34:18 update: removing 逆转裁判系列/大逆転裁判 -成歩堂龍ノ介の冒險- 劇伴音樂大全集 [FLAC]/DISC1/01 - 成歩堂龍ノ介 ～冒險の序曲.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/01 - 成歩堂龍ノ介 ～覺悟の序曲.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/02 - 大逆転は終わらない(自鳴琴・抄).flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/03 - ジングル -開幕【覺悟編】.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/04 - 弁護少女の序曲.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/05 - 成歩堂龍太郎 ～異議あり!.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/06 - 豆籾平太 ～ブンヤ一匹、豆籾主義.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/07 - ウイリアム・ペテンシー ～裏街の沙翁.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/08 - 追憶 ～殺意の交差点.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/09 - 倫敦万国博覧会.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/10 - ドビンボー博士 ～科学の子.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/11 - 蝋人形の館.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/12 - マダム・ローザイク ～謎は蝋にからめて.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/13 - 追憶 ～砕け散った数式.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/14 - ドクター・シス ～孤高の監察医.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/15 - イーノック・ドレッバー ～科学と魔術の輪舞.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/16 - 暗闇の殺意.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/17 - 《プロフェッサー》 ～蘇る亡霊.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/18 - 大いなる帰還.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/19 - 復活の検事.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/20 - バスカビルの伝説.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/21 - 牢獄の番人たち.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/22 - 虚無は巡る.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/23 - 追憶 ～絆をたどる旅.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/24 - 大探偵の友情.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/25 - 独逸歌曲『怒りの独唱』.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC1/26 - ジングル -幕間【覺悟編】.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/01 - 大法廷控室(変奏曲).flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/02 - 大・極秘裁判 ～開廷.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/03 - 追憶のバロック・バンジークス.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/04 - 推理大戦・舞台裏(相棒編).flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/05 - 相棒 ～The game is afoot!.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/06 - 追憶 ～野望の果てに.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/07 - 追求への前奏曲.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/08 - 大追求 ～成歩堂龍ノ介の覺悟.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/09 - 真実への大扉.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/10 - 勝訴 ～最後の大勝利.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/11 - 大逆転は終わらない(自鳴琴).flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/12 - それぞれの道.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/13 - 別れの挨拶 ～His last bow.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/14 - 終幕組曲【忘れじの旋律】.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/15 - 大終章 ～Epilogue.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/16 - 開幕【覺悟編】・試作.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/17 - 倫敦万国博覧会・試作.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/18 - ドビンボー博士・試作.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/19 - マダム・ローザイク・試作.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/20 - 『怒りの独唱』・試作.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/21 - 大・極秘裁判・試作1.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/22 - 大・極秘裁判・試作2.flac
+2026-10-06T19:34:24 update: added 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟/DISC2/23 - 相棒のテーマ・初期版 .flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/23 - 相棒のテーマ・初期版 .flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/22 - 大・極秘裁判・試作2.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/21 - 大・極秘裁判・試作1.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/20 - 『怒りの独唱』・試作.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/19 - マダム・ローザイク・試作.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/18 - ドビンボー博士・試作.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/17 - 倫敦万国博覧会・試作.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/16 - 開幕【覺悟編】・試作.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/15 - 大終章 ～Epilogue.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/14 - 終幕組曲【忘れじの旋律】.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/13 - 別れの挨拶 ～His last bow.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/12 - それぞれの道.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/11 - 大逆転は終わらない(自鳴琴).flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/10 - 勝訴 ～最後の大勝利.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/09 - 真実への大扉.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/08 - 大追求 ～成歩堂龍ノ介の覺悟.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/07 - 追求への前奏曲.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/06 - 追憶 ～野望の果てに.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/05 - 相棒 ～The game is afoot!.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/04 - 推理大戦・舞台裏(相棒編).flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/03 - 追憶のバロック・バンジークス.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/02 - 大・極秘裁判 ～開廷.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC2/01 - 大法廷控室(変奏曲).flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/26 - ジングル -幕間【覺悟編】.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/25 - 独逸歌曲『怒りの独唱』.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/24 - 大探偵の友情.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/23 - 追憶 ～絆をたどる旅.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/22 - 虚無は巡る.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/21 - 牢獄の番人たち.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/20 - バスカビルの伝説.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/19 - 復活の検事.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/18 - 大いなる帰還.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/17 - 《プロフェッサー》 ～蘇る亡霊.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/16 - 暗闇の殺意.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/15 - イーノック・ドレッバー ～科学と魔術の輪舞.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/14 - ドクター・シス ～孤高の監察医.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/13 - 追憶 ～砕け散った数式.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/12 - マダム・ローザイク ～謎は蝋にからめて.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/11 - 蝋人形の館.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/10 - ドビンボー博士 ～科学の子.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/09 - 倫敦万国博覧会.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/08 - 追憶 ～殺意の交差点.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/07 - ウイリアム・ペテンシー ～裏街の沙翁.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/06 - 豆籾平太 ～ブンヤ一匹、豆籾主義.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/05 - 成歩堂龍太郎 ～異議あり!.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/04 - 弁護少女の序曲.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/03 - ジングル -開幕【覺悟編】.flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/02 - 大逆転は終わらない(自鳴琴・抄).flac
+2026-10-06T19:34:24 update: removing 逆转裁判系列/大逆転裁判2 -成歩堂龍ノ介の覺悟- 劇伴音樂大全集 [FLAC]/DISC1/01 - 成歩堂龍ノ介 ～覺悟の序曲.flac
+2026-10-06T19:35:28 player: played "逆转裁判系列/逆转裁判1/21 - The Steel Samurai -  Warrior of Neo Olde Tokyo.flac"
+2026-10-06T19:37:34 player: played "逆转裁判系列/逆转裁判1/22 - Reminiscences - The DL-6 Incident.flac"
+2026-10-06T19:39:34 player: played "逆转裁判系列/逆转裁判1/23 - Heart of the Investigation 2001.flac"
+2026-10-06T19:40:54 player: played "逆转裁判系列/逆转裁判1/24 - Reminiscences - The Class Trial.flac"
+2026-10-06T19:42:48 player: played "逆转裁判系列/逆转裁判1/25 - Victory! - Our First Win.flac"
+2026-10-06T19:45:14 player: played "逆转裁判系列/逆转裁判1/26 - Phoenix Wright -  Ace Attorney - Ending.flac"
+2026-10-06T19:47:12 player: played "逆转裁判系列/逆转裁判1/27 - The Ballad of Turnabout Sisters.flac"
+2026-10-06T19:47:49 player: played "逆转裁判系列/逆转裁判1/28 - Rise from the Ashes - Opening.flac"
+2026-10-06T19:49:29 player: played "逆转裁判系列/逆转裁判1/29 - Reminiscences - The SL-9 Incident.flac"
+2026-10-06T19:51:20 player: played "逆转裁判系列/逆转裁判1/30 - Ema Skye - Turnabout Sisters 2005.flac"
+2026-10-06T19:52:42 player: played "逆转裁判系列/逆转裁判1/31 - The Blue Badger - I Want to Protect You.flac"
+2026-10-06T19:54:28 player: played "逆转裁判系列/逆转裁判1/32 - Jake Marshall - Renegade Sheriff.flac"
+2026-10-06T20:06:39 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T20:08:45 player: played "逆转裁判系列/逆转裁判1/23 - Heart of the Investigation 2001.flac"
+2026-10-06T20:10:05 player: played "逆转裁判系列/逆转裁判1/24 - Reminiscences - The Class Trial.flac"
+2026-10-06T20:11:59 player: played "逆转裁判系列/逆转裁判1/25 - Victory! - Our First Win.flac"
+2026-10-06T20:14:25 player: played "逆转裁判系列/逆转裁判1/26 - Phoenix Wright -  Ace Attorney - Ending.flac"
+2026-10-06T20:16:22 player: played "逆转裁判系列/逆转裁判1/27 - The Ballad of Turnabout Sisters.flac"
+2026-10-06T20:16:59 player: played "逆转裁判系列/逆转裁判1/28 - Rise from the Ashes - Opening.flac"
+2026-10-06T20:18:40 player: played "逆转裁判系列/逆转裁判1/29 - Reminiscences - The SL-9 Incident.flac"
+2026-10-06T20:20:31 player: played "逆转裁判系列/逆转裁判1/30 - Ema Skye - Turnabout Sisters 2005.flac"
+2026-10-06T20:21:53 player: played "逆转裁判系列/逆转裁判1/31 - The Blue Badger - I Want to Protect You.flac"
+2026-10-06T20:23:38 player: played "逆转裁判系列/逆转裁判1/32 - Jake Marshall - Renegade Sheriff.flac"
+2026-10-06T20:25:41 player: played "逆转裁判系列/逆转裁判1/33 - Damon Gant - Swimming, Anyone？.flac"
+2026-10-06T20:30:25 player: played "逆转裁判系列/逆转裁判1/34 - Rise from the Ashes - Ending.flac"
+2026-10-06T20:30:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T20:33:59 player: played "逆转裁判系列/御剑精选集/1-54 - Confrontation - Allegro 2009 (Arranged).flac"
+2026-10-06T20:35:49 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T20:38:34 player: played "逆转裁判系列/御剑精选集/1-55 - Confrontation - Presto 2009 (Arranged).flac"
+2026-10-06T20:41:35 player: played "逆转裁判系列/御剑精选集/1-56 - Miles Edgeworth - Objection! 2009 (Arranged).flac"
+2026-10-06T20:45:03 player: played "逆转裁判系列/御剑精选集/1-57 - Pursuit - Chase Down the Truth (Arranged).flac"
+2026-10-06T20:48:02 output: Failed to open mixer for "Default ALSA": no such mixer control: PCM
+2026-10-06T20:49:14 player: played "逆转裁判系列/御剑精选集/1-58 - Pursuit - Chase Down the Truth (No Intro) (Arranged).flac"
+2026-10-06T20:52:02 player: played "逆转裁判系列/御剑精选集/2-54 - Confrontation - Allegro 2011 (Arranged).flac"
+2026-10-06T20:54:14 player: played "逆转裁判系列/御剑精选集/2-55 - Confrontation - Presto 2011 (Arranged).flac"
+2026-10-06T20:57:36 player: played "逆转裁判系列/御剑精选集/2-56 - Miles Edgeworth - Objection! 2011 (Arranged).flac"
+2026-10-06T21:00:26 player: played "逆转裁判系列/御剑精选集/2-57 - Pursuit - Uncover the Truth (Arranged).flac"
+2026-10-06T21:03:05 player: played "逆转裁判系列/御剑精选集/2-58 - Pursuit - Uncover the Truth (No Intro) (Arranged).flac"

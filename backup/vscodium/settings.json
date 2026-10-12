@@ -94,5 +94,9 @@
     "explorer.confirmDragAndDrop": false,
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
-    "xml.catalogs": [ "/etc/xml/catalog" ]
+    "xml.catalogs": [
+        "/etc/xml/catalog"
+    ],
+    "python.defaultInterpreterPath": "/home/beiming/miniconda3/envs/unitypy/bin/python",
+    "terminal.integrated.inheritEnv": false
 }

@@ -4,9 +4,9 @@ export XMODIFIERS=@im=fcitx        #解决输入法问题
 export PROTON_USE_NTSYNC=1                    # 启用ntsync
 export PROTON_USE_PIPEWIRE=1                  # 使用 pipewire 后端
 export WINE_AUDIO_DRIVER="pipewire,alsa"      # 指定 wine 音频后端
-#export PROTON_LOG=1                          # 启用日志
-#export PROTON_LOG_DIR="/tmp"                 # 日志路径
-#export PROTON_CRASH_REPORT_DIR="/tmp"        # 日志重定向到临时目录
+export PROTON_LOG=1                          # 启用日志
+export PROTON_LOG_DIR="/tmp"                 # 日志路径
+export PROTON_CRASH_REPORT_DIR="/tmp"        # 日志重定向到临时目录
 export PROTON_LOCAL_SHADER_CACHE=1            # 非 steam 游戏使用本地缓存
 # dxvk 配置
 export DXVK_ASYNC=1                           # 启用异步着色器编译
